@@ -17,7 +17,14 @@ if (!empty($_SERVER['HTTP_X_FORWARDED_PROTO']) && stripos($_SERVER['HTTP_X_FORWA
     $_SERVER['REQUEST_SCHEME'] = 'https';
 }
 
-if (!empty($_SERVER['CODESPACE_NAME']) && !empty($_SERVER['GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN'])) {
+if (!empty($_SERVER['HTTP_X_FORWARDED_HOST'])) {
+    $forwarded_host_parts = explode(',', $_SERVER['HTTP_X_FORWARDED_HOST']);
+    $forwarded_host = trim($forwarded_host_parts[0]);
+    $forwarded_proto = !empty($_SERVER['HTTP_X_FORWARDED_PROTO']) ? trim(explode(',', $_SERVER['HTTP_X_FORWARDED_PROTO'])[0]) : 'https';
+    $runtime_url = $forwarded_proto . '://' . $forwarded_host;
+    define('WP_HOME', $runtime_url);
+    define('WP_SITEURL', $runtime_url);
+} elseif (!empty($_SERVER['CODESPACE_NAME']) && !empty($_SERVER['GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN'])) {
     $codespace_url = 'https://' . $_SERVER['CODESPACE_NAME'] . '-8080.' . $_SERVER['GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN'];
     define('WP_HOME', $codespace_url);
     define('WP_SITEURL', $codespace_url);
