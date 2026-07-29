@@ -14,3 +14,9 @@ RewriteRule . /index.php [L]
 </IfModule>
 
 # END WordPress
+
+<IfModule mod_mime.c>
+	<FilesMatch "^(css|css2|css\(1\))$">
+		ForceType text/css
+	</FilesMatch>
+</IfModule>
