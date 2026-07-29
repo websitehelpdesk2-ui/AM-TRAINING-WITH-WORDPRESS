@@ -1,5 +1,5 @@
 <?php
-$static_home = ABSPATH . 'index.html';
+$static_home = ABSPATH . 'home/index.html';
 
 if (is_file($static_home)) {
   $content = file_get_contents($static_home);
