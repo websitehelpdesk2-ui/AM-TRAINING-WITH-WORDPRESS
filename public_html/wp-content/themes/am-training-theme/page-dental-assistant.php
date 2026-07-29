@@ -8,6 +8,7 @@ get_header();
 <!DOCTYPE html>
 <html lang="en-US" >
 <head>
+<base href="<?php echo esc_url( home_url( "/" ) ); ?>">
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
