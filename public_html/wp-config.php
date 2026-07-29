@@ -6,6 +6,17 @@ define( 'DB_HOST', 'db:3306' );
 define( 'DB_CHARSET', 'utf8mb4' );
 define( 'DB_COLLATE', '' );
 
+if (!empty($_SERVER['HTTP_X_FORWARDED_HOST'])) {
+    $forwarded_host_parts = explode(',', $_SERVER['HTTP_X_FORWARDED_HOST']);
+    $_SERVER['HTTP_HOST'] = trim($forwarded_host_parts[0]);
+}
+
+if (!empty($_SERVER['HTTP_X_FORWARDED_PROTO']) && stripos($_SERVER['HTTP_X_FORWARDED_PROTO'], 'https') !== false) {
+    $_SERVER['HTTPS'] = 'on';
+    $_SERVER['SERVER_PORT'] = '443';
+    $_SERVER['REQUEST_SCHEME'] = 'https';
+}
+
 if (!empty($_SERVER['CODESPACE_NAME']) && !empty($_SERVER['GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN'])) {
     $codespace_url = 'https://' . $_SERVER['CODESPACE_NAME'] . '-8080.' . $_SERVER['GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN'];
     define('WP_HOME', $codespace_url);
