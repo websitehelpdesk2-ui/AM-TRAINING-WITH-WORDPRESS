@@ -198,19 +198,23 @@ $_SESSION["Source"]="payment";
       <div class="col-6 col-md">
         <h5>Location</h5>
         <ul class="list-unstyled text-small">
-          <li class="mb-1">7300 Westown Parkway Ste 120<br/>West Des Moines, IA<br/>United States</li>          
+          <li class="mb-1">610 North Alma School Rd., STE 4, Chandler, AZ 85224</li>          
         </ul>
       </div>
       <div class="col-6 col-md">
         <h5>Contact</h5>
         <ul class="list-unstyled text-small">
-          <li class="mb-1">(515) 207-5119</li>          
+          <li class="mb-1">Name: AM Training Institute</li>
+          <li class="mb-1">Phone: 480.975.8810</li>
+          <li class="mb-1">Email: <a href="mailto:info@amtraininginstitute.com">info@amtraininginstitute.com</a></li>
+          <li class="mb-1">Address: 610 North Alma School Rd., STE 4, Chandler, AZ 85224</li>
+          <li class="mb-1">Website: <a href="https://amtraininginstitute.com">amtraininginstitute.com</a></li>
         </ul>
       </div>
       <div class="col-6 col-md">
         <h5>Email</h5>
         <ul class="list-unstyled text-small">
-          <li class="mb-1"><a href="mailto:info@amtraininginstitute.org">info@amtraininginstitute.org</a></li>          
+          <li class="mb-1"><a href="mailto:info@amtraininginstitute.com">info@amtraininginstitute.com</a></li>          
         </ul>
       </div>
     </div>

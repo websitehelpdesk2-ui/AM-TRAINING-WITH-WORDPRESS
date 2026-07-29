@@ -50,9 +50,11 @@ if ($email != '')
     
 	$message .= $email;
 	$message .= '        <hr/><h5>Contact</h5>';
-	$message .= '          (515) 207-5119';          	
-	$message .= '        <h5>Email</h5>';	
-	$message .= '          <a href="mailto:info@amtraininginstitute.org">info@amtraininginstitute.org</a>';          	
+	$message .= '          Name: AM Training Institute<br/>';
+	$message .= '          Phone: 480.975.8810<br/>';
+	$message .= '          Email: <a href="mailto:info@amtraininginstitute.com">info@amtraininginstitute.com</a><br/>';
+	$message .= '          Address: 610 North Alma School Rd., STE 4, Chandler, AZ 85224<br/>';
+	$message .= '          Website: <a href="https://amtraininginstitute.com">amtraininginstitute.com</a>';
 	$message = wordwrap(str_replace("\n.", "\n..",$message), 70);
 	$sent = mail($to, $subject, $message, $headers);
 	

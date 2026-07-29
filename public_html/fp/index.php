@@ -51,10 +51,12 @@ if ($_SERVER['REQUEST_METHOD']==='POST')
 		
 		$message .= '<p>Greetings '.$user_name.',</p>';			
 		$message .= '<p>To reset your password, please click <a href="https://amtraininginstitute.org/login/?'.$QS.$user_id.'" target="_blank"><strong>here</strong></a>.  If you have any questions, please reach out to the following options.</p>';			
-		$message .= '        <hr/><h5>Contact</h5>';	
-		$message .= '          (515) 207-5119';          	
-		$message .= '        <h5>Email</h5>';	
-		$message .= '          <a href="mailto:info@amtraininginstitute.org">info@amtraininginstitute.org</span></a>';          	
+		$message .= '        <hr/><h5>Contact</h5>';
+		$message .= '          Name: AM Training Institute<br/>';
+		$message .= '          Phone: 480.975.8810<br/>';
+		$message .= '          Email: <a href="mailto:info@amtraininginstitute.com">info@amtraininginstitute.com</a><br/>';
+		$message .= '          Address: 610 North Alma School Rd., STE 4, Chandler, AZ 85224<br/>';
+		$message .= '          Website: <a href="https://amtraininginstitute.com">amtraininginstitute.com</a>';
 		$message = wordwrap($message, 70);		
 		mail($to, $subject, $message, $headers);
 		header('Location: /fp/notification.php');
