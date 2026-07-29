@@ -2,7 +2,25 @@
 $static_home = ABSPATH . 'index.html';
 
 if (is_file($static_home)) {
-    readfile($static_home);
+  $content = file_get_contents($static_home);
+
+  if ($content !== false) {
+    $base_tag = '<base href="' . esc_url(home_url('/')) . '">';
+
+    // Keep the original layout/styles but disable script execution to prevent blank-screen failures.
+    $content = preg_replace('/<script\b[^>]*>.*?<\/script>/is', '', $content);
+    $content = preg_replace('/<script\b[^>]*>/i', '', $content);
+    $content = preg_replace('/<\/script>/i', '', $content);
+
+    if (stripos($content, '<head>') !== false) {
+      $content = preg_replace('/<head>/i', '<head>' . "\n" . $base_tag, $content, 1);
+    }
+
+    echo $content;
+    return;
+  }
+
+  readfile($static_home);
     return;
 }
 
