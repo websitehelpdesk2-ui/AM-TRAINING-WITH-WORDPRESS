@@ -1,0 +1,916 @@
+[14-Jun-2024 04:14:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "output" in /home/rwomoq266ddc/public_html/registration/index.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/index.php on line 183
+[16-Jun-2024 06:57:03 UTC] PHP Parse error:  syntax error, unexpected token "*", expecting end of file in /home/rwomoq266ddc/public_html/registration/new.php on line 191
+[16-Jun-2024 21:51:06 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 41
+[16-Jun-2024 21:51:06 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 54
+[17-Jun-2024 03:01:19 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 41
+[17-Jun-2024 03:01:19 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 54
+[17-Jun-2024 03:01:19 UTC] PHP Warning:  Undefined variable $program_option in /home/rwomoq266ddc/public_html/registration/new.php on line 110
+[17-Jun-2024 03:01:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 0, , , , , , , , , , )' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:111
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(111): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 111
+[17-Jun-2024 03:01:45 UTC] PHP Warning:  Undefined variable $program_option in /home/rwomoq266ddc/public_html/registration/new.php on line 110
+[17-Jun-2024 03:01:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 0, , , , , , , , , , )' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:111
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(111): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 111
+[17-Jun-2024 03:03:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' , , , , , , , , )' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:112
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(112): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 112
+[17-Jun-2024 03:05:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' , , , , , , , , )' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:114
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(114): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 114
+[17-Jun-2024 03:09:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 0, , , , , , , , , , )' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:111
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(111): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 111
+[17-Jun-2024 03:09:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 0, , , , , , , , , , )' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:111
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(111): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 111
+[17-Jun-2024 03:10:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 0, , , , , , , , , , )' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:112
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(112): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 112
+[17-Jun-2024 03:26:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 0, Carlos R Solis Madera, 6367 Vista Drive, APT 6200, 50266, 4697338074, car...' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:112
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(112): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 112
+[17-Jun-2024 05:09:03 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "end" in /home/rwomoq266ddc/public_html/registration/new.php:106
+Stack trace:
+#0 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 106
+[17-Jun-2024 06:01:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_option' in 'field list' in /home/rwomoq266ddc/public_html/registration/payment.php:34
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/payment.php(34): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/payment.php on line 34
+[17-Jun-2024 06:02:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_option' in 'field list' in /home/rwomoq266ddc/public_html/registration/payment.php:34
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/payment.php(34): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/payment.php on line 34
+[17-Jun-2024 06:02:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_option' in 'field list' in /home/rwomoq266ddc/public_html/registration/payment.php:34
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/payment.php(34): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/payment.php on line 34
+[17-Jun-2024 06:02:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_option' in 'field list' in /home/rwomoq266ddc/public_html/registration/payment.php:34
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/payment.php(34): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/payment.php on line 34
+[17-Jun-2024 06:03:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "row" in /home/rwomoq266ddc/public_html/registration/payment.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/payment.php on line 37
+[17-Jun-2024 06:04:21 UTC] PHP Warning:  Undefined variable $_option in /home/rwomoq266ddc/public_html/registration/payment.php on line 131
+[17-Jun-2024 06:04:21 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/registration/payment.php on line 191
+[17-Jun-2024 06:04:21 UTC] PHP Warning:  Undefined variable $js in /home/rwomoq266ddc/public_html/registration/payment.php on line 243
+[17-Jun-2024 06:06:26 UTC] PHP Warning:  Undefined variable $_option in /home/rwomoq266ddc/public_html/registration/payment.php on line 131
+[17-Jun-2024 06:06:26 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/registration/payment.php on line 191
+[17-Jun-2024 06:06:26 UTC] PHP Warning:  Undefined variable $js in /home/rwomoq266ddc/public_html/registration/payment.php on line 243
+[17-Jun-2024 06:06:52 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/registration/payment.php on line 191
+[17-Jun-2024 06:06:52 UTC] PHP Warning:  Undefined variable $js in /home/rwomoq266ddc/public_html/registration/payment.php on line 243
+[17-Jun-2024 06:08:48 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/registration/payment.php on line 193
+[17-Jun-2024 06:08:48 UTC] PHP Warning:  Undefined variable $js in /home/rwomoq266ddc/public_html/registration/payment.php on line 245
+[17-Jun-2024 06:10:31 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/registration/payment.php on line 194
+[17-Jun-2024 06:10:31 UTC] PHP Warning:  Undefined variable $js in /home/rwomoq266ddc/public_html/registration/payment.php on line 246
+[17-Jun-2024 06:12:40 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/registration/payment.php on line 194
+[17-Jun-2024 06:12:40 UTC] PHP Warning:  Undefined variable $js in /home/rwomoq266ddc/public_html/registration/payment.php on line 246
+[17-Jun-2024 06:14:21 UTC] PHP Warning:  Undefined variable $js in /home/rwomoq266ddc/public_html/registration/payment.php on line 246
+[17-Jun-2024 06:15:09 UTC] PHP Warning:  Undefined variable $js in /home/rwomoq266ddc/public_html/registration/payment.php on line 246
+[17-Jun-2024 06:15:40 UTC] PHP Warning:  Undefined variable $js in /home/rwomoq266ddc/public_html/registration/payment.php on line 246
+[17-Jun-2024 06:15:49 UTC] PHP Warning:  Undefined variable $js in /home/rwomoq266ddc/public_html/registration/payment.php on line 246
+[18-Jun-2024 00:22:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 191
+[18-Jun-2024 00:22:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 193
+[18-Jun-2024 00:22:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 194
+[18-Jun-2024 00:22:45 UTC] PHP Warning:  Undefined variable $js in /home/rwomoq266ddc/public_html/registration/payment.php on line 246
+[18-Jun-2024 00:56:50 UTC] PHP Warning:  Undefined variable $js in /home/rwomoq266ddc/public_html/registration/payment.php on line 235
+[18-Jun-2024 01:08:36 UTC] PHP Warning:  Undefined variable $js in /home/rwomoq266ddc/public_html/registration/payment.php on line 235
+[18-Jun-2024 01:46:33 UTC] PHP Warning:  Undefined variable $js in /home/rwomoq266ddc/public_html/registration/payment.php on line 235
+[18-Jun-2024 01:48:41 UTC] PHP Warning:  Undefined variable $js in /home/rwomoq266ddc/public_html/registration/payment.php on line 235
+[18-Jun-2024 01:56:38 UTC] PHP Warning:  Undefined variable $js in /home/rwomoq266ddc/public_html/registration/payment.php on line 235
+[18-Jun-2024 15:04:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 191
+[18-Jun-2024 15:04:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 193
+[18-Jun-2024 15:04:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 194
+[18-Jun-2024 15:04:58 UTC] PHP Warning:  Undefined variable $js in /home/rwomoq266ddc/public_html/registration/payment.php on line 235
+[19-Jun-2024 16:19:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 191
+[19-Jun-2024 16:19:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 193
+[19-Jun-2024 16:19:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 194
+[19-Jun-2024 16:19:42 UTC] PHP Warning:  Undefined variable $js in /home/rwomoq266ddc/public_html/registration/payment.php on line 235
+[19-Jun-2024 17:37:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 147
+[19-Jun-2024 17:37:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 149
+[19-Jun-2024 17:37:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 151
+[19-Jun-2024 17:37:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 153
+[19-Jun-2024 17:50:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 147
+[19-Jun-2024 17:50:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 149
+[19-Jun-2024 17:50:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 151
+[19-Jun-2024 17:50:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 153
+[19-Jun-2024 17:51:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 147
+[19-Jun-2024 17:51:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 149
+[19-Jun-2024 17:51:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 151
+[19-Jun-2024 17:51:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 153
+[19-Jun-2024 17:51:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 147
+[19-Jun-2024 17:51:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 149
+[19-Jun-2024 17:51:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 151
+[19-Jun-2024 17:51:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 153
+[19-Jun-2024 17:51:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 147
+[19-Jun-2024 17:51:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 149
+[19-Jun-2024 17:51:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 151
+[19-Jun-2024 17:51:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 153
+[19-Jun-2024 17:51:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 147
+[19-Jun-2024 17:51:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 149
+[19-Jun-2024 17:51:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 151
+[19-Jun-2024 17:51:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 153
+[19-Jun-2024 18:18:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 147
+[19-Jun-2024 18:18:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 149
+[19-Jun-2024 18:18:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 151
+[19-Jun-2024 18:18:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 153
+[19-Jun-2024 18:19:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 151
+[19-Jun-2024 18:19:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 153
+[19-Jun-2024 18:19:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 155
+[19-Jun-2024 18:19:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 157
+[20-Jun-2024 02:50:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 162
+[20-Jun-2024 02:50:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 166
+[20-Jun-2024 02:50:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 168
+[20-Jun-2024 05:15:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 162
+[20-Jun-2024 05:15:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 166
+[20-Jun-2024 05:15:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 168
+[20-Jun-2024 05:16:34 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/rwomoq266ddc/public_html/registration/notification.php on line 178
+[20-Jun-2024 05:17:23 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/rwomoq266ddc/public_html/registration/notification.php on line 179
+[20-Jun-2024 05:17:27 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/rwomoq266ddc/public_html/registration/notification.php on line 179
+[20-Jun-2024 05:19:17 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/rwomoq266ddc/public_html/registration/notification.php on line 177
+[20-Jun-2024 05:20:52 UTC] PHP Warning:  Undefined variable $nav_menu in /home/rwomoq266ddc/public_html/registration/notification.php on line 277
+[20-Jun-2024 05:20:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/notification.php on line 288
+[20-Jun-2024 05:20:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/notification.php on line 292
+[20-Jun-2024 05:20:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/notification.php on line 294
+[20-Jun-2024 05:28:54 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/rwomoq266ddc/public_html/registration/notification.php on line 177
+[20-Jun-2024 05:34:28 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/rwomoq266ddc/public_html/registration/notification.php on line 180
+[20-Jun-2024 05:34:30 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/rwomoq266ddc/public_html/registration/notification.php on line 180
+[20-Jun-2024 05:34:49 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/rwomoq266ddc/public_html/registration/notification.php on line 180
+[20-Jun-2024 05:36:04 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/rwomoq266ddc/public_html/registration/notification.php on line 180
+[20-Jun-2024 05:36:06 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/rwomoq266ddc/public_html/registration/notification.php on line 180
+[20-Jun-2024 05:37:32 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/rwomoq266ddc/public_html/registration/notification.php on line 180
+[20-Jun-2024 05:42:27 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/rwomoq266ddc/public_html/registration/notification.php on line 180
+[20-Jun-2024 05:42:49 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/rwomoq266ddc/public_html/registration/notification.php on line 180
+[20-Jun-2024 05:43:53 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/rwomoq266ddc/public_html/registration/notification.php on line 127
+[20-Jun-2024 05:43:55 UTC] PHP Parse error:  syntax error, unexpected token "*" in /home/rwomoq266ddc/public_html/registration/notification.php on line 127
+[20-Jun-2024 05:44:36 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/rwomoq266ddc/public_html/registration/notification.php on line 182
+[20-Jun-2024 05:44:38 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/rwomoq266ddc/public_html/registration/notification.php on line 182
+[20-Jun-2024 05:46:55 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/rwomoq266ddc/public_html/registration/notification.php on line 127
+[24-Jun-2024 15:56:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 162
+[24-Jun-2024 15:56:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 166
+[24-Jun-2024 15:56:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 168
+[24-Jun-2024 15:56:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 162
+[24-Jun-2024 15:56:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 166
+[24-Jun-2024 15:56:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 168
+[26-Jun-2024 22:34:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 162
+[26-Jun-2024 22:34:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 166
+[26-Jun-2024 22:34:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 168
+[27-Jun-2024 04:46:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "option3_cost" in /home/rwomoq266ddc/public_html/registration/index.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/index.php on line 90
+[29-Jun-2024 02:37:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 163
+[29-Jun-2024 02:37:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 164
+[29-Jun-2024 02:37:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 165
+[29-Jun-2024 02:37:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 169
+[29-Jun-2024 02:37:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 171
+[01-Jul-2024 02:35:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 163
+[01-Jul-2024 02:35:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 164
+[01-Jul-2024 02:35:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 165
+[01-Jul-2024 02:35:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 169
+[01-Jul-2024 02:35:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 171
+[01-Jul-2024 04:10:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 163
+[01-Jul-2024 04:10:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 164
+[01-Jul-2024 04:10:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 165
+[01-Jul-2024 04:10:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 169
+[01-Jul-2024 04:10:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 171
+[01-Jul-2024 04:10:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 163
+[01-Jul-2024 04:10:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 164
+[01-Jul-2024 04:10:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 165
+[01-Jul-2024 04:10:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 169
+[01-Jul-2024 04:10:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 171
+[01-Jul-2024 04:12:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 163
+[01-Jul-2024 04:12:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 164
+[01-Jul-2024 04:12:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 165
+[01-Jul-2024 04:12:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 169
+[01-Jul-2024 04:12:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 171
+[04-Jul-2024 07:50:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 163
+[04-Jul-2024 07:50:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 164
+[04-Jul-2024 07:50:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 165
+[04-Jul-2024 07:50:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 169
+[04-Jul-2024 07:50:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/payment.php on line 171
+[04-Jul-2024 08:15:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Commands out of sync; you can't run this command now in /home/rwomoq266ddc/public_html/registration/new.php:143
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(143): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 143
+[04-Jul-2024 08:27:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Commands out of sync; you can't run this command now in /home/rwomoq266ddc/public_html/registration/new.php:143
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(143): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 143
+[04-Jul-2024 09:06:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 163
+[04-Jul-2024 09:06:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 164
+[04-Jul-2024 09:06:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[04-Jul-2024 09:06:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 169
+[04-Jul-2024 09:06:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[04-Jul-2024 09:38:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 163
+[04-Jul-2024 09:38:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 164
+[04-Jul-2024 09:38:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[04-Jul-2024 09:38:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 169
+[04-Jul-2024 09:38:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[07-Jul-2024 04:05:33 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 77
+[07-Jul-2024 04:05:33 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 78
+[07-Jul-2024 04:05:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 40, 'Destiny Cannon', '208 99 Rd', '', '29015', '8034020564', 'destinycc...' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:125
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(125): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 125
+[08-Jul-2024 14:47:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Commands out of sync; you can't run this command now in /home/rwomoq266ddc/public_html/registration/new.php:143
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(143): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 143
+[11-Jul-2024 04:05:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '''', '')' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:130
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(130): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 130
+[11-Jul-2024 04:15:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.New_Registration; expected 13, got 14 in /home/rwomoq266ddc/public_html/registration/new.php:130
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(130): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 130
+[17-Jul-2024 03:39:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 163
+[17-Jul-2024 03:39:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 164
+[17-Jul-2024 03:39:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[17-Jul-2024 03:39:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 169
+[17-Jul-2024 03:39:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[19-Jul-2024 05:06:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Commands out of sync; you can't run this command now in /home/rwomoq266ddc/public_html/registration/new.php:171
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(171): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 171
+[18-Oct-2024 05:47:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 163
+[18-Oct-2024 05:47:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 164
+[18-Oct-2024 05:47:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[18-Oct-2024 05:47:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 169
+[18-Oct-2024 05:47:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[19-Oct-2024 00:05:17 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[19-Oct-2024 00:05:17 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[21-Oct-2024 21:55:47 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[21-Oct-2024 21:55:47 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[30-Oct-2024 17:16:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 163
+[30-Oct-2024 17:16:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 164
+[30-Oct-2024 17:16:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[30-Oct-2024 17:16:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 169
+[30-Oct-2024 17:16:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[31-Oct-2024 06:24:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 163
+[31-Oct-2024 06:24:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 164
+[31-Oct-2024 06:24:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[31-Oct-2024 06:24:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 169
+[31-Oct-2024 06:24:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[31-Oct-2024 06:25:47 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[31-Oct-2024 06:25:47 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[31-Oct-2024 06:25:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 15, 'Carlos R Solis Madera', '6367 Vista Drive', 'APT 6200', '50266', '4...' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[31-Oct-2024 16:59:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[31-Oct-2024 16:59:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[31-Oct-2024 16:59:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[31-Oct-2024 16:59:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[31-Oct-2024 16:59:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[12-Nov-2024 18:50:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Commands out of sync; you can't run this command now in /home/rwomoq266ddc/public_html/registration/new.php:171
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(171): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 171
+[12-Nov-2024 18:50:31 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 62
+[12-Nov-2024 18:50:31 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[12-Nov-2024 18:58:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Commands out of sync; you can't run this command now in /home/rwomoq266ddc/public_html/registration/new.php:171
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(171): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 171
+[12-Nov-2024 18:58:20 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 62
+[12-Nov-2024 18:58:20 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[12-Nov-2024 18:58:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Commands out of sync; you can't run this command now in /home/rwomoq266ddc/public_html/registration/new.php:171
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(171): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 171
+[12-Nov-2024 18:58:39 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 62
+[12-Nov-2024 18:58:39 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[12-Nov-2024 19:25:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Commands out of sync; you can't run this command now in /home/rwomoq266ddc/public_html/registration/new.php:171
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(171): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 171
+[12-Nov-2024 19:25:09 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 62
+[12-Nov-2024 19:25:09 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[12-Nov-2024 20:17:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Commands out of sync; you can't run this command now in /home/rwomoq266ddc/public_html/registration/new.php:171
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(171): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 171
+[12-Nov-2024 20:17:21 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 62
+[12-Nov-2024 20:17:21 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[12-Nov-2024 20:19:28 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[12-Nov-2024 20:19:28 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[12-Nov-2024 20:19:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 15, 'Blake Clark', '324 NE WHITETAIL DR', '', '50613', '5154789024', 'cl...' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[12-Nov-2024 20:19:35 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[12-Nov-2024 20:19:35 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[12-Nov-2024 20:19:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 15, 'Blake Clark', '324 NE WHITETAIL DR', '', '50613', '5154789024', 'cl...' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[12-Nov-2024 20:20:11 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[12-Nov-2024 20:20:11 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[12-Nov-2024 20:20:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 15, 'Blake Clark', '324 NE WHITETAIL DR', '', '50613', '5154789024', 'cl...' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[12-Nov-2024 20:21:12 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[12-Nov-2024 20:21:12 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[12-Nov-2024 20:21:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 15, 'Blake Clark', '324 NE WHITETAIL DR', '', '50613', '5154789024', 'cl...' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[12-Nov-2024 20:21:41 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[12-Nov-2024 20:21:41 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[12-Nov-2024 20:21:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 15, 'Blake Clark', '324 NE WHITETAIL DR', '', '50613', '5154789024', 'cl...' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[12-Nov-2024 20:30:44 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 62
+[12-Nov-2024 20:30:44 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[11-Dec-2024 09:05:46 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[11-Dec-2024 09:05:46 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[20-Jan-2025 19:10:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Commands out of sync; you can't run this command now in /home/rwomoq266ddc/public_html/registration/new.php:171
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(171): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 171
+[20-Jan-2025 19:10:47 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 62
+[20-Jan-2025 19:10:47 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[20-Jan-2025 19:11:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Commands out of sync; you can't run this command now in /home/rwomoq266ddc/public_html/registration/new.php:171
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(171): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 171
+[20-Jan-2025 19:11:22 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 62
+[20-Jan-2025 19:11:22 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[20-Jan-2025 19:11:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Commands out of sync; you can't run this command now in /home/rwomoq266ddc/public_html/registration/new.php:171
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(171): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 171
+[20-Jan-2025 19:11:28 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 62
+[20-Jan-2025 19:11:28 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[20-Jan-2025 19:11:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Commands out of sync; you can't run this command now in /home/rwomoq266ddc/public_html/registration/new.php:171
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(171): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 171
+[20-Jan-2025 19:12:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Commands out of sync; you can't run this command now in /home/rwomoq266ddc/public_html/registration/new.php:171
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(171): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 171
+[20-Jan-2025 19:12:01 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 62
+[20-Jan-2025 19:12:01 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[22-Jan-2025 16:01:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Commands out of sync; you can't run this command now in /home/rwomoq266ddc/public_html/registration/new.php:171
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(171): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 171
+[22-Jan-2025 16:01:15 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 62
+[22-Jan-2025 16:01:15 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[31-Jan-2025 14:33:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[31-Jan-2025 14:33:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[31-Jan-2025 14:33:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[31-Jan-2025 14:33:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[31-Jan-2025 14:33:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[02-Feb-2025 23:57:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[02-Feb-2025 23:57:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[02-Feb-2025 23:57:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[02-Feb-2025 23:57:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[02-Feb-2025 23:57:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[12-Feb-2025 17:27:05 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[12-Feb-2025 17:27:05 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[12-Feb-2025 17:27:05 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[12-Feb-2025 17:27:05 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[12-Feb-2025 17:27:05 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[12-Feb-2025 17:27:05 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[12-Feb-2025 17:27:05 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[12-Feb-2025 17:27:05 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[12-Feb-2025 17:27:05 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[12-Feb-2025 17:27:05 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[12-Feb-2025 17:27:05 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[12-Feb-2025 17:27:05 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[12-Feb-2025 17:27:05 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[12-Feb-2025 17:27:05 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[12-Feb-2025 17:27:05 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[12-Feb-2025 17:27:05 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[16-Feb-2025 00:30:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[16-Feb-2025 00:30:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[16-Feb-2025 00:30:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[16-Feb-2025 00:30:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[16-Feb-2025 00:30:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[20-Feb-2025 18:37:29 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[20-Feb-2025 18:37:29 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[13-Mar-2025 02:54:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[13-Mar-2025 02:54:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[13-Mar-2025 02:54:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[13-Mar-2025 02:54:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[13-Mar-2025 02:54:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[13-Mar-2025 02:59:26 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 62
+[13-Mar-2025 02:59:26 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[13-Mar-2025 02:59:39 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 62
+[13-Mar-2025 02:59:39 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[13-Mar-2025 02:59:50 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 62
+[13-Mar-2025 02:59:50 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[13-Mar-2025 02:59:52 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 62
+[13-Mar-2025 02:59:52 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[13-Mar-2025 02:59:54 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 62
+[13-Mar-2025 02:59:54 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[17-Mar-2025 09:13:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[17-Mar-2025 09:13:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[17-Mar-2025 09:13:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[17-Mar-2025 09:13:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[17-Mar-2025 09:13:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[22-Mar-2025 15:47:15 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[22-Mar-2025 15:47:15 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[27-Mar-2025 03:09:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[27-Mar-2025 03:09:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[27-Mar-2025 03:09:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[27-Mar-2025 03:09:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[27-Mar-2025 03:09:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[31-Mar-2025 18:15:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Commands out of sync; you can't run this command now in /home/rwomoq266ddc/public_html/registration/new.php:171
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(171): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 171
+[31-Mar-2025 18:15:16 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 62
+[31-Mar-2025 18:15:16 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[31-Mar-2025 18:16:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Commands out of sync; you can't run this command now in /home/rwomoq266ddc/public_html/registration/new.php:171
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(171): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 171
+[31-Mar-2025 18:16:04 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 62
+[31-Mar-2025 18:16:04 UTC] PHP Warning:  Undefined array key 5 in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[07-Apr-2025 13:11:37 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[07-Apr-2025 13:11:37 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[10-Apr-2025 18:55:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[10-Apr-2025 18:55:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[10-Apr-2025 18:55:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[10-Apr-2025 18:55:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[10-Apr-2025 18:55:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[18-Apr-2025 18:06:32 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[18-Apr-2025 18:06:32 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[18-Apr-2025 18:06:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 0, '', '', '', '', '', '', '', '', '', '', '')' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[18-Apr-2025 19:23:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[18-Apr-2025 19:23:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[18-Apr-2025 19:23:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[18-Apr-2025 19:23:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[18-Apr-2025 19:23:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[18-Apr-2025 20:27:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[18-Apr-2025 20:27:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[18-Apr-2025 20:27:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[18-Apr-2025 20:27:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[18-Apr-2025 20:27:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[30-Apr-2025 15:19:19 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[30-Apr-2025 15:19:19 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[02-May-2025 03:48:30 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[02-May-2025 03:48:30 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[02-May-2025 20:39:36 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[02-May-2025 20:39:36 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[02-May-2025 20:39:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 15, 'tammy truong', '1715 8th st', '', '50314', '5153057256', 'tammy.tru...' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[13-May-2025 12:08:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[13-May-2025 12:08:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[13-May-2025 12:08:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[13-May-2025 12:08:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[13-May-2025 12:08:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[13-May-2025 13:07:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[13-May-2025 13:07:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[13-May-2025 13:07:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[13-May-2025 13:07:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[13-May-2025 13:07:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[13-May-2025 14:19:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[13-May-2025 14:19:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[13-May-2025 14:19:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[13-May-2025 14:19:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[13-May-2025 14:19:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[20-May-2025 23:40:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[20-May-2025 23:40:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[20-May-2025 23:40:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[20-May-2025 23:40:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[20-May-2025 23:40:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[27-May-2025 17:59:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[27-May-2025 17:59:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[27-May-2025 17:59:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[27-May-2025 17:59:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[27-May-2025 17:59:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[29-May-2025 02:41:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[29-May-2025 02:41:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[29-May-2025 02:41:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[29-May-2025 02:41:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[29-May-2025 02:41:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[29-May-2025 02:54:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[29-May-2025 02:54:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[29-May-2025 02:54:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[29-May-2025 02:54:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[29-May-2025 02:54:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[31-May-2025 03:05:24 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[31-May-2025 03:05:24 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[31-May-2025 03:05:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 15, 'Emmaculate Vusweeh Ghomear ', '4831 Copper Ridge Circle Des Moines,...' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[31-May-2025 03:05:35 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[31-May-2025 03:05:35 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[31-May-2025 03:05:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 15, 'Emmaculate Vusweeh Ghomear ', '4831 Copper Ridge Circle Des Moines,...' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[31-May-2025 03:05:38 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[31-May-2025 03:05:38 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[31-May-2025 03:05:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 15, 'Emmaculate Vusweeh Ghomear ', '4831 Copper Ridge Circle Des Moines,...' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[31-May-2025 03:21:02 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[31-May-2025 03:21:02 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[31-May-2025 03:21:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 15, 'Emmaculate Vusweeh Ghomear ', '4931 Copper Ridge Circle Circle Des ...' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[31-May-2025 16:43:35 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[31-May-2025 16:43:35 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[31-May-2025 16:43:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 15, 'Emmaculate Vusweeh Ghomear ', '4931 Copper Ridge Circle', '', '5031...' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[31-May-2025 16:49:44 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[31-May-2025 16:49:44 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[31-May-2025 16:49:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 15, 'Emmaculate Vusweeh Ghomear ', '4931 Copper Ridge Circle', '', '5031...' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[31-May-2025 17:03:13 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[31-May-2025 17:03:13 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[31-May-2025 17:03:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 15, 'Emmaculate Vusweeh Ghomear ', '4931 Copper Ridge Circle', '', '5031...' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[03-Jun-2025 21:24:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[03-Jun-2025 21:24:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[03-Jun-2025 21:24:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[03-Jun-2025 21:24:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[03-Jun-2025 21:24:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[04-Jun-2025 18:06:49 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[04-Jun-2025 18:06:49 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[04-Jun-2025 22:43:56 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[04-Jun-2025 22:43:56 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[04-Jun-2025 22:44:17 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[04-Jun-2025 22:44:17 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[04-Jun-2025 22:44:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 0, '', '', '', '', '', '', '', '', '', '', '')' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[04-Jun-2025 22:44:20 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[04-Jun-2025 22:44:20 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[04-Jun-2025 22:44:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 0, '', '', '', '', '', '', '', '', '', '', '')' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[04-Jun-2025 22:44:25 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[04-Jun-2025 22:44:25 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[04-Jun-2025 22:44:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 0, '', '', '', '', '', '', '', '', '', '', '')' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[04-Jun-2025 22:48:39 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[04-Jun-2025 22:48:39 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[04-Jun-2025 22:48:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 15, 'Alvin ', '2629 15th SW Street ', '', '50009-5433 ', '4135191966', '...' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[04-Jun-2025 22:48:44 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[04-Jun-2025 22:48:44 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[04-Jun-2025 22:48:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 15, 'Alvin ', '2629 15th SW Street ', '', '50009-5433 ', '4135191966', '...' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[04-Jun-2025 22:49:12 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[04-Jun-2025 22:49:12 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[04-Jun-2025 22:49:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 15, 'Alvin ', '2629 15th SW Street ', '', '50009-5433 ', '4135191966', '...' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[05-Jun-2025 04:38:55 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[05-Jun-2025 04:38:55 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[14-Jun-2025 01:41:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[14-Jun-2025 01:41:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[14-Jun-2025 01:41:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[14-Jun-2025 01:41:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[14-Jun-2025 01:41:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[14-Jun-2025 02:40:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[14-Jun-2025 02:40:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[14-Jun-2025 02:40:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[14-Jun-2025 02:40:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[14-Jun-2025 02:40:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[14-Jun-2025 19:10:46 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[14-Jun-2025 19:10:46 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[16-Jun-2025 21:19:59 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[16-Jun-2025 21:19:59 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[15-Jul-2025 00:08:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[15-Jul-2025 00:08:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[15-Jul-2025 00:08:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[15-Jul-2025 00:08:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[15-Jul-2025 00:08:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[15-Jul-2025 00:46:53 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[15-Jul-2025 00:46:53 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[15-Jul-2025 01:58:32 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[15-Jul-2025 01:58:32 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[15-Jul-2025 04:01:12 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[15-Jul-2025 04:01:12 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[16-Jul-2025 18:14:57 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[16-Jul-2025 18:14:57 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[16-Jul-2025 18:16:31 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[16-Jul-2025 18:16:31 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[16-Jul-2025 18:16:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 15, 'Makayla Chambers', '1704 NW Morningside Dr ', '', '50111', '5154943...' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[16-Jul-2025 18:16:37 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[16-Jul-2025 18:16:37 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[16-Jul-2025 18:16:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 15, 'Makayla Chambers', '1704 NW Morningside Dr ', '', '50111', '5154943...' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[16-Jul-2025 18:16:39 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[16-Jul-2025 18:16:39 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[16-Jul-2025 18:16:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 0, '', '', '', '', '', '', '', '', '', '', '')' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[31-Jul-2025 17:49:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[31-Jul-2025 17:49:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[31-Jul-2025 17:49:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[31-Jul-2025 17:49:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[31-Jul-2025 17:49:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[31-Jul-2025 18:15:14 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[31-Jul-2025 18:15:14 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[05-Aug-2025 17:11:52 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[05-Aug-2025 17:11:52 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[05-Aug-2025 17:11:56 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[05-Aug-2025 17:11:56 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[05-Aug-2025 17:11:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 0, '', '', '', '', '', '', '', '', '', '', '')' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[05-Aug-2025 17:11:58 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[05-Aug-2025 17:11:58 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[05-Aug-2025 17:11:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 0, '', '', '', '', '', '', '', '', '', '', '')' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[05-Aug-2025 17:12:03 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[05-Aug-2025 17:12:03 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[05-Aug-2025 17:12:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 0, '', '', '', '', '', '', '', '', '', '', '')' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[05-Aug-2025 17:56:50 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[05-Aug-2025 17:56:50 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[05-Aug-2025 18:32:28 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[05-Aug-2025 18:32:28 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[06-Aug-2025 23:11:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[06-Aug-2025 23:11:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[06-Aug-2025 23:11:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[06-Aug-2025 23:11:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[06-Aug-2025 23:11:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[11-Aug-2025 05:47:09 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[11-Aug-2025 05:47:09 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[02-Sep-2025 06:23:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[02-Sep-2025 06:23:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[02-Sep-2025 06:23:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[02-Sep-2025 06:23:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[02-Sep-2025 06:23:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[02-Sep-2025 09:11:56 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[02-Sep-2025 09:11:56 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[02-Sep-2025 09:12:29 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[02-Sep-2025 09:12:29 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[02-Sep-2025 09:12:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 0, '', '', '', '', '', '', '', '', '', '', '')' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[15-Sep-2025 19:59:14 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[15-Sep-2025 19:59:14 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[15-Sep-2025 19:59:40 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[15-Sep-2025 19:59:40 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[15-Sep-2025 19:59:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 0, '', '', '', '', '', '', '', '', '', '', '')' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[15-Sep-2025 19:59:43 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[15-Sep-2025 19:59:43 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[15-Sep-2025 19:59:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 0, '', '', '', '', '', '', '', '', '', '', '')' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[15-Sep-2025 20:00:00 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[15-Sep-2025 20:00:00 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[15-Sep-2025 20:00:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 0, '', '', '', '', '', '', '', '', '', '', '')' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[15-Sep-2025 20:00:05 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[15-Sep-2025 20:00:05 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[15-Sep-2025 20:00:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 0, '', '', '', '', '', '', '', '', '', '', '')' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[15-Sep-2025 20:00:09 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[15-Sep-2025 20:00:09 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[15-Sep-2025 20:00:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 0, '', '', '', '', '', '', '', '', '', '', '')' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[22-Sep-2025 22:36:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[22-Sep-2025 22:36:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[22-Sep-2025 22:36:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[22-Sep-2025 22:36:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[22-Sep-2025 22:36:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[02-Oct-2025 02:45:48 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[02-Oct-2025 02:45:48 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[02-Oct-2025 02:49:19 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[02-Oct-2025 02:49:19 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[02-Oct-2025 02:49:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 15, 'jaelyn hammond ', '406 N 19th St', '', '50125', '5158223162', 'jaej...' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[02-Oct-2025 02:49:25 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[02-Oct-2025 02:49:25 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[02-Oct-2025 02:49:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 0, '', '', '', '', '', '', '', '', '', '', '')' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[25-Oct-2025 19:29:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[25-Oct-2025 19:29:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[25-Oct-2025 19:29:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[25-Oct-2025 19:29:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[25-Oct-2025 19:29:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[03-Nov-2025 14:55:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[03-Nov-2025 14:55:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[03-Nov-2025 14:55:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[03-Nov-2025 14:55:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[03-Nov-2025 14:55:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[04-Nov-2025 02:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[04-Nov-2025 02:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[04-Nov-2025 02:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[04-Nov-2025 02:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[04-Nov-2025 02:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[12-Nov-2025 01:26:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[12-Nov-2025 01:26:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[12-Nov-2025 01:26:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[12-Nov-2025 01:26:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[12-Nov-2025 01:26:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[18-Nov-2025 01:52:25 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[18-Nov-2025 01:52:25 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[28-Dec-2025 22:35:16 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[28-Dec-2025 22:35:16 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[28-Jan-2026 23:43:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[28-Jan-2026 23:43:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[28-Jan-2026 23:43:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[28-Jan-2026 23:43:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[28-Jan-2026 23:43:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[25-Feb-2026 20:22:48 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[25-Feb-2026 20:22:48 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[25-Feb-2026 20:34:22 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[25-Feb-2026 20:34:22 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[25-Feb-2026 20:34:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 0, '', '', '', '', '', '', '', '', '', '', '')' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[25-Feb-2026 20:34:58 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[25-Feb-2026 20:34:58 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[25-Feb-2026 20:34:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 0, '', '', '', '', '', '', '', '', '', '', '')' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[25-Feb-2026 20:35:01 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[25-Feb-2026 20:35:01 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[25-Feb-2026 20:35:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 0, '', '', '', '', '', '', '', '', '', '', '')' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[25-Feb-2026 20:35:12 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[25-Feb-2026 20:35:12 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[25-Feb-2026 20:35:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 0, '', '', '', '', '', '', '', '', '', '', '')' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[19-Mar-2026 15:33:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[19-Mar-2026 15:33:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[19-Mar-2026 15:33:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[19-Mar-2026 15:33:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[19-Mar-2026 15:33:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[27-Mar-2026 18:07:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[27-Mar-2026 18:07:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[27-Mar-2026 18:07:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[27-Mar-2026 18:07:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[27-Mar-2026 18:07:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[16-Apr-2026 07:59:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[16-Apr-2026 07:59:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[16-Apr-2026 07:59:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[16-Apr-2026 07:59:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[16-Apr-2026 07:59:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[03-May-2026 01:39:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[03-May-2026 01:39:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[03-May-2026 01:39:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[03-May-2026 01:39:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[03-May-2026 01:39:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[05-May-2026 19:52:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 165
+[05-May-2026 19:52:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 166
+[05-May-2026 19:52:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 167
+[05-May-2026 19:52:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 171
+[05-May-2026 19:52:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/registration/tc.php on line 173
+[02-Jun-2026 21:03:38 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[02-Jun-2026 21:03:38 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82
+[02-Jun-2026 21:04:16 UTC] PHP Warning:  Undefined array key "program_id" in /home/rwomoq266ddc/public_html/registration/new.php on line 84
+[02-Jun-2026 21:04:16 UTC] PHP Warning:  Undefined array key "_option" in /home/rwomoq266ddc/public_html/registration/new.php on line 85
+[02-Jun-2026 21:04:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '', 0, '', '', '', '', '', '', '', '', '', '', '')' at line 1 in /home/rwomoq266ddc/public_html/registration/new.php:152
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/registration/new.php(152): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/registration/new.php on line 152
+[04-Jun-2026 13:28:32 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 45
+[04-Jun-2026 13:28:32 UTC] PHP Warning:  Undefined array key "Source" in /home/rwomoq266ddc/public_html/registration/new.php on line 82

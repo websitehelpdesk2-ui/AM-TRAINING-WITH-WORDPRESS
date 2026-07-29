@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.84.0">
+    <title>Contact Us</title>
+
+  
+
+    
+
+    <!-- Bootstrap core CSS -->
+<link href="./assets/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+
+    
+    <!-- Custom styles for this template -->
+    <link href="pricing.css" rel="stylesheet">
+  </head>
+  <body>
+    
+
+
+<div class="container py-3">
+  <header>
+    <div class="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom">
+      <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
+        <img width="120" height="80" src="./images/logo2.png"  alt="">
+      </a>
+
+      <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+        <a class="me-3 py-2 text-dark text-decoration-none" href="/about-us/">About Us</a>
+        <a class="me-3 py-2 text-dark text-decoration-none" style="display: none;" href="/programs/">Programs</a>
+        <a class="me-3 py-2 text-dark text-decoration-none" style="display: none;" href="/testimonials/">Testimonials</a>
+        <a class="me-3 py-2 text-dark text-decoration-none" style="display: none;" href="/faqs/">FAQs</a>
+        <a class="me-3 py-2 btn btn-outline-secondary" href="/contact/">Contact Us</a>
+        <a class="me-3 py-2 btn btn-secondary" href="/registration">Enroll Now</a>    
+      </nav>
+    </div>
+
+    <div class="pricing-header p-3 pb-md-4 mx-auto text-center">
+      <h1 class="display-4 fw-normal">Contact Us</h1>
+      <p class="fs-5 text-muted">Get in touch with AM Training Institute to learn more about our Dental Assisting and CNA Programs. We are here to help you start your new career journey.</p>
+    </div>
+  </header>
+
+    <h2 class="display-6 text-center mb-4">Information</h2>
+
+    <div class="table-responsive">
+      <table class="table text-center">
+        <thead>
+          <tr>
+            <th style=""></th>   
+			<th style="width: 90%;"></th>           
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            
+            <td><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
+  <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414zM0 4.697v7.104l5.803-3.558zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586zm3.436-.586L16 11.801V4.697z"></path>
+</svg></td>
+            <td><a href="mailto:info@amtraininginstitute.com" class="text-dark text-decoration-none">info@amtraininginstitute.com</a></td>
+            
+          </tr>
+          <tr>
+            
+            <td><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-telephone-fill" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M1.885.511a1.745 1.745 0 0 1 2.61.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877z"></path>
+</svg></td>
+            <td>(515) 207-5119</td>
+            
+          </tr>
+       <tr>
+            
+            <td><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-telephone-fill" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M1.885.511a1.745 1.745 0 0 1 2.61.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877z"></path>
+</svg></td>
+            <td>(725) 307-9310</td>
+            
+          </tr>
+		  <tr>
+            
+            <td><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-geo-alt-fill" viewBox="0 0 16 16">
+  <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10m0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6"></path>
+</svg></td>
+            <td>7300 Westown Parkway Ste 120, West Des Moines, IA</td>
+            
+          </tr>
+          
+        </tbody>
+      </table>
+    </div>
+  </main>
+
+  <footer class="pt-4 my-md-5 pt-md-5 border-top">
+    <div class="row">
+      <div class="col-3 col-md">
+        <img class="mb-2" width="150" height="150" src="./images/logo.png">
+        
+      </div>
+      <div class="col-3 col-md">
+        <h5>Quick Links</h5>
+        <ul class="list-unstyled text-small">
+          <li class="mb-1"><a class="link-secondary text-decoration-none" href="/about-us/">About Us</a>
+          <li  style="display: none;" class="mb-1" ><a class="link-secondary text-decoration-none" href="/testimonials/">Testimonials</a>           
+        </ul>
+      </div>
+      <div class="col-3 col-md">
+        <h5>Resources</h5>
+        <ul class="list-unstyled text-small">
+		    <li class="mb-1"><a class="link-secondary text-decoration-none" href="/contact-us/">Contact Us</a>          
+          <li  style="display: none;" class="mb-1"><a class="link-secondary text-decoration-none" href="/faqs/">FAQs</a>
+    
+        </ul>
+      </div>
+      <div class="col-3 col-md">
+        <h5>Programs</h5>
+        <ul class="list-unstyled text-small">
+          <li class="mb-1"><a class="link-secondary text-decoration-none" href="/programs/">Programs</a>
+          <li class="mb-1"><a class="link-secondary text-decoration-none" href="/registration">Enroll Now</a>  
+		  <li class="mb-1"><small class="d-block mb-3 text-muted">&copy; 2025</small>
+        </ul>
+      </div>
+    </div>
+  </footer>
+</div>
+
+
+    
+  </body>
+</html>

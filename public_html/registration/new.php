@@ -1,0 +1,457 @@
+<?php
+ini_set('error_reporting', E_ALL | E_STRICT);
+ini_set('display_startup_errors', 1);
+ini_set('display_errors', 1);
+session_start();
+include('../../private/connect_sp.php');
+include('../../private/connect_sp2.php');
+include('../../private/connect_sp3.php');
+require('../../private/csrf_token.php');
+$CURRENT_PAGE_NAME = "new";
+$csrf_token_tag = "";
+$error_tag = '';
+$program_id = 0;
+$program_option = "";
+$program_name = "";
+$option1 = "";
+$option1_cost = 0;
+$option2 = "";
+$option2_cost = 0;
+$option3 = "";
+$option3_cost = 0;
+$output = "";
+$state_id = 0;
+$student_name = "";
+$student_address = "";
+$student_address2 = "";
+$student_zip = "";
+$student_phone = "";
+$student_email = "";
+$student_ssn = "";
+$student_birthdate = "";
+$emergency_contact = "";
+$contact_relation = "";
+$contact_phone = "";
+$state_options = "";
+$student_date = null;
+$student_birthdate_format = null;
+$js = "";
+$nav_menu = '<a class="py-2 text-dark text-decoration-none" href="/login/">Login</a>';
+$error = false;
+$error_message = "";
+$now = date_create()->format('Y-m-d H:i:s');
+$diff = null;
+$years = 0;
+if ($_SERVER['REQUEST_METHOD']==='POST' && $_SESSION["Source"]==="registration")
+{
+	if (isset($_POST["program_id"]))
+	{
+		$program_id = filter_var($_POST["program_id"], FILTER_SANITIZE_FULL_SPECIAL_CHARS);
+	}
+	if (isset($_POST["_option"]))
+	{
+		$program_option = filter_var($_POST["_option"], FILTER_SANITIZE_FULL_SPECIAL_CHARS);
+	}
+	$_SESSION["program_id"] = $program_id;
+	$_SESSION["_option"] = $program_option;
+}	
+
+if(isset($_SESSION["UserName"]))
+{
+	$nav_menu = '<a class="py-2 text-dark text-decoration-none">'.$_SESSION["UserName"].'</a>';
+    $sql = "CALL Add_Registration(".$program_id.", '".$program_option."', ".$_SESSION["UserID"].");";				
+	$result2 = mysqli_query($conn2, $sql);	
+	if ($row = mysqli_fetch_row($result2))
+	{	
+		$error_tag = trim($row[0]);
+        $student_email = $row[1];	
+		if ($error_tag != '' and $error_tag != null)
+		{
+			$error_tag = '<div class="alert alert-danger alert-dismissible fade show" role="alert">'.$error_tag.'<button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button></div>';
+		}
+		else
+		{
+			$_SESSION["Registration-Email"]=$student_email;
+			header("Location: https://amtraininginstitute.org/registration/tc.php");
+		}
+	}
+	mysqli_close($conn);
+	header("Location: https://amtraininginstitute.org/registration/tc.php");
+}
+
+if ($_SERVER['REQUEST_METHOD']==='POST' && $_SESSION["Source"]==="new")
+{
+	$program_id =  $_SESSION["program_id"];
+	$program_option =  $_SESSION["_option"];
+	
+	if (isset($_POST["state_id"]))
+	{
+		$state_id = filter_var($_POST["state_id"], FILTER_SANITIZE_FULL_SPECIAL_CHARS);
+	}
+	if (isset($_POST["student_name"]))
+	{
+		$student_name = filter_var($_POST["student_name"], FILTER_SANITIZE_FULL_SPECIAL_CHARS);
+	}
+	if (isset($_POST["student_address"]))
+	{
+		$student_address = filter_var($_POST["student_address"], FILTER_SANITIZE_FULL_SPECIAL_CHARS);
+	}
+	if (isset($_POST["student_address2"]))
+	{
+		$student_address2 = filter_var($_POST["student_address2"], FILTER_SANITIZE_FULL_SPECIAL_CHARS);
+	}
+	if (isset($_POST["student_zip"]))
+	{
+		$student_zip = filter_var($_POST["student_zip"], FILTER_SANITIZE_FULL_SPECIAL_CHARS);
+	}
+	if (isset($_POST["student_phone"]))
+	{
+		$student_phone = filter_var($_POST["student_phone"], FILTER_SANITIZE_FULL_SPECIAL_CHARS);
+	}
+	if (isset($_POST["student_email"]))
+	{
+		$student_email = filter_var($_POST["student_email"], FILTER_SANITIZE_FULL_SPECIAL_CHARS);
+	}
+	if (isset($_POST["student_ssn"]))
+	{
+		$student_ssn = filter_var($_POST["student_ssn"], FILTER_SANITIZE_FULL_SPECIAL_CHARS);
+	}
+	if (isset($_POST["student_birthdate"]))
+	{
+		$student_birthdate = filter_var($_POST["student_birthdate"], FILTER_SANITIZE_FULL_SPECIAL_CHARS);
+		$student_date = strtotime($student_birthdate);
+		$diff = abs(strtotime($now) - strtotime($student_date));
+		$years = floor($diff / (365*60*60*24));
+		if ($years < 17) 
+		{
+		   $error = true;
+           $error_message = "Unable to process due to not having 17 years yet.";		   
+		}
+	}
+	if (isset($_POST["emergency_contact"]))
+	{
+		$emergency_contact = filter_var($_POST["emergency_contact"], FILTER_SANITIZE_FULL_SPECIAL_CHARS);
+	}
+	if (isset($_POST["contact_relation"]))
+	{
+		$contact_relation = filter_var($_POST["contact_relation"], FILTER_SANITIZE_FULL_SPECIAL_CHARS);
+	}	
+	if (isset($_POST["contact_phone"]))
+	{
+		$contact_phone = filter_var($_POST["contact_phone"], FILTER_SANITIZE_FULL_SPECIAL_CHARS);
+	}
+	
+	if ($error) 
+	{
+		$error_tag = '<div class="alert alert-danger alert-dismissible fade show" role="alert">'.$error_message.'<button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button></div>';
+	}
+	else
+	{
+		$student_birthdate_format =  date('Y-m-d',$student_date);
+		$sql = "CALL New_Registration(".$program_id.", '".$program_option."', ".$state_id.", '".$student_name."', '".$student_address."', '".$student_address2."', '".$student_zip."', '".$student_phone."', '".$student_email."', '".$student_ssn."', '".$emergency_contact."', '".$contact_relation."', '".$contact_phone."', '".$student_birthdate."');";				
+		$result = mysqli_query($conn, $sql);	
+		if ($row = mysqli_fetch_row($result))
+		{	
+			$error_tag = trim($row[0]); 
+			if ($error_tag != '' and $error_tag != null)
+			{
+				$error_tag = '<div class="alert alert-danger alert-dismissible fade show" role="alert">'.$error_tag.'<button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button></div>';
+			}
+			else
+			{
+				$_SESSION["Registration-Email"]=$student_email;
+				header("Location: https://amtraininginstitute.org/registration/tc.php");
+			}
+		}
+		mysqli_close($conn);
+	}
+}
+
+$sql = "Call Get_States();";		
+$result = mysqli_query($conn2, $sql);	
+while ($row = mysqli_fetch_row($result))
+{
+	$state_options .= '<option value="'.$row[0].'">'.$row[1].'</option>';
+}
+mysqli_close($conn2);
+
+
+$csrf_token_tag = csrf_token_tag($CURRENT_PAGE_NAME);
+$_SESSION["Source"]="new";
+?>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">      
+    <title>AM Training Institute | Portal</title>
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/navbar-fixed/">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+	
+<link href="../css/bootstrap.min.css" rel="stylesheet">
+<link href="../css/dropdowns.css" rel="stylesheet">
+<link href="../css/form-validation.css" rel="stylesheet">
+<link id="bs-css" href="../css/bootstrap.min.css" rel="stylesheet">
+<link id="bsdp-css" href="../css/bootstrap-datepicker3.min.css" rel="stylesheet">
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+      .b-example-divider {
+        height: 3rem;
+        background-color: rgba(0, 0, 0, .1);
+        border: solid rgba(0, 0, 0, .15);
+        border-width: 1px 0;
+        box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+      }
+
+      .b-example-vr {
+        flex-shrink: 0;
+        width: 1.5rem;
+        height: 100vh;
+      }
+
+      .bi {
+        vertical-align: -.125em;
+        fill: currentColor;
+      }
+
+      .nav-scroller {
+        position: relative;
+        z-index: 2;
+        height: 2.75rem;
+        overflow-y: hidden;
+      }
+
+      .nav-scroller .nav {
+        display: flex;
+        flex-wrap: nowrap;
+        padding-bottom: 1rem;
+        margin-top: -1px;
+        overflow-x: auto;
+        text-align: center;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+      }
+    </style>
+    <link href="navbar-top-fixed.css" rel="stylesheet">
+	<script src="../js/jquery-3.4.1.slim.min.js"></script>
+	<script src="../js/bootstrap-datepicker.min.js"></script>
+  </head>
+  <body>   
+<div class="container py-3">
+  <header>
+    <div class="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom">
+      <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
+        <img src="https://amtraininginstitute.org/wp-content/uploads/2024/02/cropped-logo1-1.jpg" alt="AMTRAINING INSTITUTE" width="48" height="48">
+        <span class="fs-4"> AM Training Institute</span>
+      </a>
+
+      <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+        <a class="me-3 py-2 text-dark text-decoration-none" href="#"></a>
+        <a class="me-3 py-2 text-dark text-decoration-none" href="#"></a>
+        <a class="me-3 py-2 text-dark text-decoration-none" href="#"></a>
+        <?=$nav_menu?>
+      </nav>
+    </div>
+
+    <div class="pricing-header p-3 pb-md-4 mx-auto text-center">
+      <h1 class="display-4 fw-normal">Student Admission</h1>
+      <p class="fs-5 text-muted">Please enter your information for Registration </p>
+    </div>
+  </header>
+
+<main>
+	<form method="POST"  class="needs-validation">		
+		<?= $csrf_token_tag ?>
+		<?= $error_tag ?>	
+		
+          <div class="row g-3">
+            <div class="col-12">
+              <label for="student_name" class="form-label">Full Name</label>
+              <input type="text" class="form-control" id="student_name" name="student_name" placeholder="" value="<?=$student_name?>" required="">
+              <div class="invalid-feedback">
+                Field cannot be empty
+              </div>
+            </div>
+            <div class="col-6">
+              <label for="student_email" class="form-label">Email <span class="text-muted"></span></label>
+              <input type="email" class="form-control" id="student_email" name="student_email" placeholder="you@example.com" value="<?=$student_email?>" >
+              <div class="invalid-feedback">
+                Please enter a valid email address.
+              </div>
+            </div>
+			<div class="col-6">
+              <label for="student_phone" class="form-label">Phone <span class="text-muted">(10 digits)</span></label>
+              <input type="tel" class="form-control phone" id="student_phone" name="student_phone" placeholder="55512367890" value="<?=$student_phone?>" pattern="[1-9]{1}[0-9]{9}" maxlength="10">
+              <div class="invalid-feedback">
+                Please enter a valid phone number.
+              </div>
+            </div>
+
+            <div class="col-12">
+              <label for="student_address" class="form-label">Address</label>
+              <input type="text" class="form-control" id="student_address" name="student_address" placeholder="## Street Name" required="" value="<?=$student_address?>">
+              <div class="invalid-feedback">
+                Please enter your shipping address.
+              </div>
+            </div>
+
+            <div class="col-12">
+              <label for="student_address2" class="form-label">Address 2 <span class="text-muted">(Optional)</span></label>
+              <input type="text" class="form-control" id="student_address2" name="student_address2" placeholder="Apartment or suite" value="<?=$student_address2?>">
+            </div>
+
+            <div class="col-md-4">
+              <label for="country" class="form-label">Country</label>
+              <select class="form-select" id="country" required="">                
+                <option>United States</option>
+              </select>
+              <div class="invalid-feedback">
+                Please select a valid country.
+              </div>
+            </div>
+
+            <div class="col-md-4">
+              <label for="state_id" class="form-label">State</label>
+              <select class="form-select" id="state_id" name="state_id" required="">                
+                <?=$state_options?>
+              </select>
+              <div class="invalid-feedback">
+                Please provide a valid state.
+              </div>
+            </div>
+
+            <div class="col-md-4">
+              <label for="student_zip" class="form-label">Zip</label>
+              <input type="text" class="form-control" id="student_zip" name="student_zip" placeholder="" required="" value="<?=$student_zip?>">
+              <div class="invalid-feedback">
+                Zip code required.
+              </div>
+            </div>
+          </div>
+		  <hr class="my-4">
+          <div class="row">
+            <div class="col-8">
+              <label for="student_ssn" class="form-label">SS# <span class="text-muted">(Only digits)</span></label>
+              <input type="password" class="form-control phone" id="student_ssn" name="student_ssn" placeholder="" required="" maxlength="10">              
+              <div class="invalid-feedback">
+                Field required
+              </div>
+            </div>
+			<div class="col-md-4">
+              <label for="student_bithdate" class="form-label">Bithdate</label>
+               <input type="text" class="form-control" id="student_bithdate" name="student_bithdate" required="required">                
+                
+              
+              <div class="invalid-feedback">
+                Please provide a valid state.
+              </div>
+            </div>
+          </div>
+		  
+		  <div class="row gy-3">
+            <div class="col-md-4">
+              <label for="emergency_contact" class="form-label">Emergency Contact Name</label>
+              <input type="text" class="form-control" id="emergency_contact" name="emergency_contact" placeholder="" required="" value="<?=$emergency_contact?>">
+              <div class="invalid-feedback"> 
+                Field required
+              </div>
+            </div>
+
+            <div class="col-md-4">
+              <label for="contact_relation" class="form-label">Relationship</label>
+              <Select class="form-control" id="contact_relation" name="contact_relation" placeholder="" required="" >
+			  <option value="Parent" >Parent</option>
+			  <option value="Spouse" >Spouse</option>
+			  <option value="Significant Other"  >Significant Other</option>
+			  <option value="Relative" >Relative</option>
+			  <option value="Friend"  >Friend</option>
+			  <option value="Other" >Other</option>
+			  </select>
+              <div class="invalid-feedback">
+                Field required
+              </div>
+            </div>
+
+            <div class="col-md-4">
+              <label for="contact_phone" class="form-label">Emergency Contact Phone Number <span class="text-muted">(10 digits)</span></label>
+              <input type="tel" class="form-control phone" id="contact_phone" name="contact_phone" placeholder="" required="" value="<?=$contact_phone?>" pattern="[1-9]{1}[0-9]{9}" maxlength="10">
+              <div class="invalid-feedback">
+                Field required
+              </div>
+            </div>
+          </div>
+
+          <hr class="my-4">
+
+          <button class="w-100 btn btn-primary btn-lg" type="submit">Continue to checkout</button>
+        
+	</form>
+</main>
+
+  <footer class="pt-4 my-md-5 pt-md-5 border-top">
+    <div class="row">
+      <div class="col-12 col-md">
+        <img class="mb-2" src="https://amtraininginstitute.org/wp-content/uploads/2024/02/cropped-logo1-1.jpg" alt="" width="24" height="19">
+        <small class="d-block mb-3 text-muted">&copy; 2024</small>
+      </div>
+      <div class="col-6 col-md">
+        <h5>Location</h5>
+        <ul class="list-unstyled text-small">
+          <li class="mb-1">7300 Westown Parkway Ste 120<br/>West Des Moines, IA<br/>United States</li>          
+        </ul>
+      </div>
+      <div class="col-6 col-md">
+        <h5>Contact</h5>
+        <ul class="list-unstyled text-small">
+          <li class="mb-1">(515) 207-5119</li>          
+        </ul>
+      </div>
+      <div class="col-6 col-md">
+        <h5>Email</h5>
+        <ul class="list-unstyled text-small">
+          <li class="mb-1"><a href="mailto:info@amtraininginstitute.org">info@amtraininginstitute.org</a></li>          
+        </ul>
+      </div>
+    </div>
+  </footer>
+</div>
+     <script src="../js/bootstrap.bundle.min.js"></script>
+    <script type="text/javascript">
+$(document).ready(function() {
+		    <?=$js ?>	
+			
+			       
+            $('.phone').keypress(function(e) {
+                var a = [];
+                var k = e.which;
+
+                for (i = 48; i < 58; i++)
+                    a.push(i);
+
+                if (!(a.indexOf(k)>=0))
+                    e.preventDefault();
+            });
+			
+			$('#student_bithdate').datepicker({
+			});
+        
+});
+</script>
+    
+  </body>
+</html>
+

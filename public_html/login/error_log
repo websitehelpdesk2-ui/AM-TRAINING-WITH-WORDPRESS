@@ -1,0 +1,98 @@
+[19-Mar-2024 04:15:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "E_STRINCT" in /home/rwomoq266ddc/public_html/login/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/rwomoq266ddc/public_html/login/index.php on line 2
+[19-Mar-2024 04:18:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/rwomoq266ddc/private/connect_sp.php:5
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/login/index.php(10): include()
+#1 {main}
+  thrown in /home/rwomoq266ddc/private/connect_sp.php on line 5
+[19-Mar-2024 04:26:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function crsf_token_tag() in /home/rwomoq266ddc/public_html/login/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/rwomoq266ddc/public_html/login/index.php on line 26
+[19-Mar-2024 04:42:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function crsf_token_tag() in /home/rwomoq266ddc/public_html/login/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/rwomoq266ddc/public_html/login/index.php on line 26
+[19-Mar-2024 04:42:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function crsf_token_tag() in /home/rwomoq266ddc/public_html/login/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/rwomoq266ddc/public_html/login/index.php on line 26
+[19-Mar-2024 04:44:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function crsf_token_tag() in /home/rwomoq266ddc/public_html/login/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rwomoq266ddc/public_html/login/index.php on line 34
+[26-Mar-2024 00:29:54 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli_select_db" not found in /home/rwomoq266ddc/private/connect_sp.php:6
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/login/index.php(10): include()
+#1 {main}
+  thrown in /home/rwomoq266ddc/private/connect_sp.php on line 6
+[26-Mar-2024 00:30:31 UTC] PHP Warning:  Undefined variable $sqlLink in /home/rwomoq266ddc/private/connect_sp.php on line 7
+[26-Mar-2024 00:30:31 UTC] PHP Warning:  Attempt to read property "connect_errno" on null in /home/rwomoq266ddc/private/connect_sp.php on line 7
+[26-Mar-2024 00:30:59 UTC] PHP Warning:  Attempt to read property "connect_errno" on bool in /home/rwomoq266ddc/private/connect_sp.php on line 7
+[26-Mar-2024 00:33:25 UTC] PHP Warning:  Attempt to read property "connect_error" on bool in /home/rwomoq266ddc/private/connect_sp.php on line 9
+[26-Mar-2024 00:35:17 UTC] PHP Parse error:  syntax error, unexpected token "exit", expecting "," or ";" in /home/rwomoq266ddc/private/connect_sp.php on line 10
+[26-Mar-2024 01:21:33 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home/rwomoq266ddc/public_html/login/index.php on line 36
+[26-Mar-2024 01:21:41 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home/rwomoq266ddc/public_html/login/index.php on line 36
+[26-Mar-2024 01:23:53 UTC] PHP Warning:  Undefined variable $error_tag in /home/rwomoq266ddc/public_html/login/index.php on line 143
+[26-Mar-2024 01:25:01 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/rwomoq266ddc/public_html/login/index.php on line 22
+[26-Mar-2024 01:25:01 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/rwomoq266ddc/public_html/login/index.php on line 26
+[26-Mar-2024 01:25:01 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/rwomoq266ddc/public_html/login/index.php:32
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/login/index.php(32): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/login/index.php on line 32
+[26-Mar-2024 01:27:02 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/rwomoq266ddc/public_html/login/index.php:32
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/login/index.php(32): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/login/index.php on line 32
+[26-Mar-2024 01:32:46 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/rwomoq266ddc/public_html/login/index.php:33
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/login/index.php(33): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/login/index.php on line 33
+[26-Mar-2024 01:36:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/login/index.php on line 35
+[26-Mar-2024 01:36:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/login/index.php on line 36
+[26-Mar-2024 01:36:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/login/index.php on line 37
+[26-Mar-2024 01:36:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function close() in /home/rwomoq266ddc/public_html/login/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/rwomoq266ddc/public_html/login/index.php on line 38
+[26-Mar-2024 02:05:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function close() in /home/rwomoq266ddc/public_html/login/index.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/rwomoq266ddc/public_html/login/index.php on line 61
+[26-Mar-2024 02:34:27 UTC] PHP Warning:  Undefined array key "User_ID" in /home/rwomoq266ddc/public_html/login/index.php on line 40
+[26-Mar-2024 02:34:27 UTC] PHP Warning:  Undefined array key "User_Name" in /home/rwomoq266ddc/public_html/login/index.php on line 41
+[26-Mar-2024 02:34:27 UTC] PHP Warning:  Undefined array key "user_active" in /home/rwomoq266ddc/public_html/login/index.php on line 42
+[26-Mar-2024 02:34:27 UTC] PHP Warning:  Undefined variable $User_ID in /home/rwomoq266ddc/public_html/login/index.php on line 43
+[26-Mar-2024 02:40:23 UTC] PHP Warning:  Undefined array key "user_id" in /home/rwomoq266ddc/public_html/login/index.php on line 43
+[26-Mar-2024 02:40:23 UTC] PHP Warning:  Undefined array key "user_name" in /home/rwomoq266ddc/public_html/login/index.php on line 44
+[26-Mar-2024 02:40:23 UTC] PHP Warning:  Undefined array key "user_active" in /home/rwomoq266ddc/public_html/login/index.php on line 45
+[26-Mar-2024 02:40:23 UTC] PHP Warning:  Undefined variable $User_ID in /home/rwomoq266ddc/public_html/login/index.php on line 46
+[26-Mar-2024 02:43:37 UTC] PHP Warning:  Undefined array key "user_id" in /home/rwomoq266ddc/public_html/login/index.php on line 43
+[26-Mar-2024 02:43:37 UTC] PHP Warning:  Undefined array key "user_name" in /home/rwomoq266ddc/public_html/login/index.php on line 44
+[26-Mar-2024 02:43:37 UTC] PHP Warning:  Undefined array key "user_active" in /home/rwomoq266ddc/public_html/login/index.php on line 45
+[26-Mar-2024 02:43:37 UTC] PHP Warning:  Undefined variable $User_ID in /home/rwomoq266ddc/public_html/login/index.php on line 46
+[26-Mar-2024 02:48:01 UTC] PHP Warning:  Array to string conversion in /home/rwomoq266ddc/public_html/login/index.php on line 43
+[26-Mar-2024 02:48:01 UTC] PHP Warning:  Undefined array key "user_id" in /home/rwomoq266ddc/public_html/login/index.php on line 44
+[26-Mar-2024 02:48:01 UTC] PHP Warning:  Undefined array key "user_name" in /home/rwomoq266ddc/public_html/login/index.php on line 45
+[26-Mar-2024 02:48:01 UTC] PHP Warning:  Undefined array key "user_active" in /home/rwomoq266ddc/public_html/login/index.php on line 46
+[29-Mar-2024 04:06:47 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/login/index.php on line 6
+[29-Mar-2024 04:06:47 UTC] PHP Warning:  include(./_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/login/index.php on line 75
+[29-Mar-2024 04:06:47 UTC] PHP Warning:  include(): Failed opening './_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/login/index.php on line 75
+[14-Jun-2024 04:36:10 UTC] PHP Parse error:  syntax error, unexpected token "{" in /home/rwomoq266ddc/public_html/login/index.php on line 7
+[14-Jun-2024 04:36:17 UTC] PHP Parse error:  syntax error, unexpected token "{" in /home/rwomoq266ddc/public_html/login/index.php on line 7
+[14-Jun-2024 04:38:18 UTC] PHP Parse error:  syntax error, unexpected token "{" in /home/rwomoq266ddc/public_html/login/index.php on line 7
+[14-Jun-2024 04:38:41 UTC] PHP Parse error:  syntax error, unexpected token "{" in /home/rwomoq266ddc/public_html/login/index.php on line 7
+[14-Jun-2024 04:38:49 UTC] PHP Parse error:  syntax error, unexpected token "{" in /home/rwomoq266ddc/public_html/login/index.php on line 7
+[14-Jun-2024 04:42:11 UTC] PHP Parse error:  syntax error, unexpected token "{" in /home/rwomoq266ddc/public_html/login/index.php on line 7
+[14-Jun-2024 04:42:53 UTC] PHP Parse error:  syntax error, unexpected token "{" in /home/rwomoq266ddc/public_html/login/index.php on line 7
+[14-Jun-2024 04:43:01 UTC] PHP Parse error:  syntax error, unexpected token "{" in /home/rwomoq266ddc/public_html/login/index.php on line 7
+[14-Jun-2024 04:44:45 UTC] PHP Parse error:  syntax error, unexpected token "{" in /home/rwomoq266ddc/public_html/login/index.php on line 7
+[14-Jun-2024 04:50:19 UTC] PHP Parse error:  syntax error, unexpected token "unset" in /home/rwomoq266ddc/public_html/login/index.php on line 10
+[14-Jun-2024 04:51:18 UTC] PHP Parse error:  syntax error, unexpected token "unset" in /home/rwomoq266ddc/public_html/login/index.php on line 10
+[14-Jun-2024 04:51:19 UTC] PHP Parse error:  syntax error, unexpected token "unset" in /home/rwomoq266ddc/public_html/login/index.php on line 10
+[04-Jul-2024 09:41:05 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/rwomoq266ddc/public_html/login/index.php on line 23

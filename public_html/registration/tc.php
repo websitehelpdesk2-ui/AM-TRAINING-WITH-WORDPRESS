@@ -1,0 +1,237 @@
+<?php
+ini_set('error_reporting', E_ALL | E_STRICT);
+ini_set('display_startup_errors', 1);
+ini_set('display_errors', 1);
+session_start();
+include('../../private/connect_sp.php');
+include('../../private/connect_sp2.php');
+include('../../private/connect_sp3.php');
+require('../../private/csrf_token.php');
+function base64_url_encode($input)
+{
+    return strtr(base64_encode($input), '+/=', '-_,');
+}
+
+function base64_url_decode($input)
+{
+    return base64_decode(strtr($input, '-_,', '+/='));
+}
+$CURRENT_PAGE_NAME = "Terms and Conditions";
+$csrf_token_tag = "";
+$error_tag = '';
+$program_id = 0;
+$program_code = "";
+$user_email = "";
+$user_id = 0;
+$output = "";
+$output_replace = "";
+$options = null;
+$url = "";
+$url2 = "";
+$nav_menu = '<a class="py-2 text-dark text-decoration-none" href="/login/">Login</a>';
+if(isset($_SESSION["UserName"]))
+{
+	$nav_menu = '<a class="py-2 text-dark text-decoration-none">'.$_SESSION["UserName"].'</a>';
+	$user_id = $_SESSION["UserID"];
+}
+if(isset($_SESSION["program_id"]))
+{
+	$program_id = $_SESSION["program_id"];
+}
+else
+{
+	header("Location: /registration/");
+}
+if(isset($_SESSION["Registration-Email"]))
+{
+	$user_email = $_SESSION["Registration-Email"];
+}
+
+$sql = "Call Get_Registration_Payment_Options(".$program_id.",".$user_id.",'".$user_email."');";	
+#echo $sql;	
+$result = mysqli_query($conn, $sql);	
+if ($row = mysqli_fetch_row($result))
+{
+	$output = $row[0];
+	#echo "<br/>".$output;	
+	$output_replace = str_replace("cost:","|", $output);
+	#echo "<br/><string>".$output_replace."</strong>";	
+    $options = explode("|",$output_replace);
+	$url = base64_url_encode($options[2]);
+    $url2 = base64_url_encode($options[3]);
+	$progam_code = $options[5];
+}
+
+mysqli_close($conn);
+
+$csrf_token_tag = csrf_token_tag($CURRENT_PAGE_NAME);
+$_SESSION["Source"]="payment";
+?>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">      
+    <title>AM Training Institute | Portal</title>
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/navbar-fixed/">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+	
+<link href="../css/bootstrap.min.css" rel="stylesheet">
+<link href="../css/dropdowns.css" rel="stylesheet">
+<link href="../css/form-validation.css" rel="stylesheet">
+<link id="bs-css" href="../css/bootstrap.min.css" rel="stylesheet">
+<link id="bsdp-css" href="../css/bootstrap-datepicker3.min.css" rel="stylesheet">
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+      .b-example-divider {
+        height: 3rem;
+        background-color: rgba(0, 0, 0, .1);
+        border: solid rgba(0, 0, 0, .15);
+        border-width: 1px 0;
+        box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+      }
+
+      .b-example-vr {
+        flex-shrink: 0;
+        width: 1.5rem;
+        height: 100vh;
+      }
+
+      .bi {
+        vertical-align: -.125em;
+        fill: currentColor;
+      }
+
+      .nav-scroller {
+        position: relative;
+        z-index: 2;
+        height: 2.75rem;
+        overflow-y: hidden;
+      }
+
+      .nav-scroller .nav {
+        display: flex;
+        flex-wrap: nowrap;
+        padding-bottom: 1rem;
+        margin-top: -1px;
+        overflow-x: auto;
+        text-align: center;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+      }
+    </style>
+    <link href="navbar-top-fixed.css" rel="stylesheet">
+	<script src="../js/jquery-3.4.1.slim.min.js"></script>
+	<script src="../js/bootstrap-datepicker.min.js"></script>
+  </head>
+  <body>   
+<div class="container py-3">
+  <header>
+    <div class="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom">
+      <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
+        <img src="https://amtraininginstitute.org/wp-content/uploads/2024/02/cropped-logo1-1.jpg" alt="AMTRAINING INSTITUTE" width="48" height="48">
+        <span class="fs-4"> AM Training Institute</span>
+      </a>
+
+      <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+        <a class="me-3 py-2 text-dark text-decoration-none" href="#"></a>
+        <a class="me-3 py-2 text-dark text-decoration-none" href="#"></a>
+        <a class="me-3 py-2 text-dark text-decoration-none" href="#"></a>
+        <?=$nav_menu?>
+      </nav>
+    </div>
+
+    <div class="pricing-header p-3 pb-md-4 mx-auto text-center">
+      <h1 class="display-4 fw-normal">Student Admission</h1>
+      <p class="fs-5 text-muted">Terms and Conditions Agreement</p>
+    </div>
+  </header>
+
+<main>
+<h2><?=$options[4]?></h2>	
+<object data="<?=$options[5]?>.pdf" type="application/pdf" style="height: 600px; max-width: 56rem; width: 80%;" aria-label="PDF format">
+  <iframe src="https://docs.google.com/viewer?url=https%3A%2F%2Famtraininginstitute.org%2Fregistration%2F<?=$options[4]?>.pdf&embedded=true" style="height: 600px; max-width: 100%; width: 100%;" frameborder="1" scrolling="auto"></iframe>
+</object>
+
+<ul>
+<?=$options[0]?>
+</ul>
+<h3>$<?=$options[1]?></h3>
+<div class="row"  style="background-color: #F7F7F7; margin-top:20px; padding-top:15px;">
+            <div class="col-12 ">Payment Options:</div>
+          </div>
+          <div class="row"  style="background-color: #F7F7F7; padding-top:15px; padding-bottom:15px;">
+            <div class="col-6 ">
+                <input class="form-check-input paypment_option" type="radio" name="payment_option" id="payment_option1" value="Stripe" >
+                <img src="/images/stripe.png" width="81" height="33" for="payment_option1" alt="Stripe" /> 
+            </div>
+            <div class="col-6">
+                <input class="form-check-input paypment_option" type="radio" name="payment_option" id="payment_option2" value="PayPal">
+                <img src="/images/paypal1.png" width="122" height="33" for="payment_option2" alt="Paypal" /> 
+            </div>
+          </div>
+<p>By clicking <strong>Submit</strong> you confirm that you had read the "Terms and Conditions" of this agreement.
+</p>
+<a id="a-s" href="notification.php?<?=$url?>" class="btn btn-primary">Submit</a>
+</main>
+
+  <footer class="pt-4 my-md-5 pt-md-5 border-top">
+    <div class="row">
+      <div class="col-12 col-md">
+        <img class="mb-2" src="https://amtraininginstitute.org/wp-content/uploads/2024/02/cropped-logo1-1.jpg" alt="" width="24" height="19">
+        <small class="d-block mb-3 text-muted">&copy; 2024</small>
+      </div>
+      <div class="col-6 col-md">
+        <h5>Location</h5>
+        <ul class="list-unstyled text-small">
+          <li class="mb-1">7300 Westown Parkway Ste 120<br/>West Des Moines, IA<br/>United States</li>          
+        </ul>
+      </div>
+      <div class="col-6 col-md">
+        <h5>Contact</h5>
+        <ul class="list-unstyled text-small">
+          <li class="mb-1">(515) 207-5119</li>          
+        </ul>
+      </div>
+      <div class="col-6 col-md">
+        <h5>Email</h5>
+        <ul class="list-unstyled text-small">
+          <li class="mb-1"><a href="mailto:info@amtraininginstitute.org">info@amtraininginstitute.org</a></li>          
+        </ul>
+      </div>
+    </div>
+  </footer>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+		    	
+			
+			       
+            $('#payment_option1').click(function() {
+               $('#a-s').attr('href','notification.php?<?=$url?>');
+            });
+
+            $('#payment_option2').click(function() {
+               $('#a-s').attr('href','notification.php?<?=$url2?>');
+            });
+			
+			
+        
+});
+</script>
+  </body>
+</html>

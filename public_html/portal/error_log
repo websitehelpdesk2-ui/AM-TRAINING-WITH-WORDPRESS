@@ -1,0 +1,1615 @@
+[14-Mar-2024 00:27:42 UTC] PHP Warning:  require(/home/rwomoq266ddc/public_html/portal/wp-blog-header.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/info.php on line 17
+[14-Mar-2024 00:27:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rwomoq266ddc/public_html/portal/wp-blog-header.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/info.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/info.php on line 17
+[14-Mar-2024 00:33:15 UTC] PHP Warning:  require(/home/rwomoq266ddc/public_html/portal/wp-blog-header.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/info.php on line 17
+[14-Mar-2024 00:33:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rwomoq266ddc/public_html/portal/wp-blog-header.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/info.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/info.php on line 17
+[29-Mar-2024 03:23:23 UTC] PHP Warning:  Undefined variable $nav_menu in /home/rwomoq266ddc/public_html/portal/index.php on line 79
+[29-Mar-2024 03:30:34 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/rwomoq266ddc/public_html/portal/Administrators_nav.php on line 20
+[29-Mar-2024 03:30:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/portal/Administrators_nav.php on line 20
+[29-Mar-2024 04:06:04 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[29-Mar-2024 04:06:04 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:04 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:07 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[29-Mar-2024 04:06:07 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:07 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:09 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[29-Mar-2024 04:06:09 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:09 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:10 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[29-Mar-2024 04:06:10 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:10 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:11 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[29-Mar-2024 04:06:11 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:11 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:12 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[29-Mar-2024 04:06:12 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:12 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:12 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[29-Mar-2024 04:06:12 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:12 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:13 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[29-Mar-2024 04:06:13 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:13 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:14 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[29-Mar-2024 04:06:14 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:14 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:15 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[29-Mar-2024 04:06:15 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:15 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:16 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[29-Mar-2024 04:06:16 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:16 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:17 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[29-Mar-2024 04:06:17 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:17 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:17 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[29-Mar-2024 04:06:17 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:17 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:28 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[29-Mar-2024 04:06:28 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:28 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:32 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[29-Mar-2024 04:06:32 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:32 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:32 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[29-Mar-2024 04:06:32 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:32 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:33 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[29-Mar-2024 04:06:33 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:33 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:34 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[29-Mar-2024 04:06:34 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:34 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:35 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[29-Mar-2024 04:06:35 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:35 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:36 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[29-Mar-2024 04:06:36 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[29-Mar-2024 04:06:36 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[02-Apr-2024 02:02:40 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[02-Apr-2024 02:02:40 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[02-Apr-2024 02:02:40 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[02-Apr-2024 03:48:50 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 9
+[02-Apr-2024 03:48:50 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 87
+[02-Apr-2024 03:48:50 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 87
+[02-Apr-2024 03:50:37 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 13
+[02-Apr-2024 03:50:37 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 92
+[02-Apr-2024 03:50:37 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 92
+[02-Apr-2024 04:32:33 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 13
+[02-Apr-2024 04:32:33 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 92
+[02-Apr-2024 04:32:33 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 92
+[02-Apr-2024 04:43:08 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 13
+[02-Apr-2024 04:43:08 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 92
+[02-Apr-2024 04:43:08 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 92
+[05-Apr-2024 02:27:05 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 13
+[05-Apr-2024 02:27:05 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 95
+[05-Apr-2024 02:27:05 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 95
+[08-Apr-2024 01:16:49 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[08-Apr-2024 01:16:49 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[08-Apr-2024 01:16:49 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[08-Apr-2024 01:16:52 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[08-Apr-2024 01:16:52 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[08-Apr-2024 01:16:52 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[08-Apr-2024 01:16:55 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[08-Apr-2024 01:16:55 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[08-Apr-2024 01:16:55 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[08-Apr-2024 01:16:56 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[08-Apr-2024 01:16:56 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[08-Apr-2024 01:16:56 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[08-Apr-2024 01:16:57 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[08-Apr-2024 01:16:57 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[08-Apr-2024 01:16:57 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[08-Apr-2024 01:16:58 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[08-Apr-2024 01:16:58 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[08-Apr-2024 01:16:58 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[08-Apr-2024 01:16:59 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[08-Apr-2024 01:16:59 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[08-Apr-2024 01:16:59 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[08-Apr-2024 01:17:00 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[08-Apr-2024 01:17:00 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[08-Apr-2024 01:17:00 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[08-Apr-2024 06:19:01 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 234
+[08-Apr-2024 06:19:25 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 234
+[08-Apr-2024 06:19:29 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[08-Apr-2024 06:19:29 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[08-Apr-2024 06:19:29 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[08-Apr-2024 06:20:38 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 234
+[08-Apr-2024 06:20:41 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 234
+[08-Apr-2024 06:20:49 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 234
+[08-Apr-2024 06:21:05 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 6
+[08-Apr-2024 06:21:05 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[08-Apr-2024 06:21:05 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 74
+[08-Apr-2024 06:22:42 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 10
+[08-Apr-2024 06:22:42 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 78
+[08-Apr-2024 06:22:42 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 78
+[08-Apr-2024 06:22:55 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 234
+[08-Apr-2024 06:24:27 UTC] PHP Warning:  Undefined variable $S in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 59
+[08-Apr-2024 07:17:12 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 65
+[08-Apr-2024 07:17:37 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 10
+[08-Apr-2024 07:17:37 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 78
+[08-Apr-2024 07:17:37 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 78
+[08-Apr-2024 07:17:46 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 65
+[08-Apr-2024 07:20:25 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 67
+[08-Apr-2024 07:24:03 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 249
+[08-Apr-2024 07:25:19 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 249
+[08-Apr-2024 07:25:22 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 249
+[08-Apr-2024 07:26:18 UTC] PHP Warning:  Undefined variable $S in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 71
+[08-Apr-2024 07:26:21 UTC] PHP Warning:  Undefined variable $S in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 71
+[08-Apr-2024 07:26:22 UTC] PHP Warning:  Undefined variable $S in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 71
+[08-Apr-2024 07:26:23 UTC] PHP Warning:  Undefined variable $S in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 71
+[08-Apr-2024 07:26:24 UTC] PHP Warning:  Undefined variable $S in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 71
+[08-Apr-2024 07:26:25 UTC] PHP Warning:  Undefined variable $S in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 71
+[08-Apr-2024 07:26:26 UTC] PHP Warning:  Undefined variable $S in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 71
+[08-Apr-2024 07:26:27 UTC] PHP Warning:  Undefined variable $S in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 71
+[08-Apr-2024 07:26:30 UTC] PHP Warning:  Undefined variable $S in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 71
+[08-Apr-2024 07:26:31 UTC] PHP Warning:  Undefined variable $S in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 71
+[08-Apr-2024 07:28:07 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 68
+[08-Apr-2024 07:28:34 UTC] PHP Warning:  Undefined variable $S in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 71
+[08-Apr-2024 07:59:55 UTC] PHP Parse error:  syntax error, unexpected variable "$announcement_description", expecting "," or ";" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 42
+[08-Apr-2024 08:07:33 UTC] PHP Parse error:  syntax error, unexpected variable "$announcement_active", expecting "," or ";" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 54
+[08-Apr-2024 08:23:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /home/rwomoq266ddc/public_html/portal/Announcements.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 68
+[08-Apr-2024 08:26:23 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 70
+[08-Apr-2024 08:39:23 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 298
+[08-Apr-2024 08:39:46 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 298
+[08-Apr-2024 09:02:48 UTC] PHP Parse error:  Unclosed '{' on line 269 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 328
+[08-Apr-2024 09:03:04 UTC] PHP Parse error:  Unclosed '{' on line 269 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 328
+[08-Apr-2024 09:05:58 UTC] PHP Parse error:  Unclosed '{' on line 269 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 328
+[08-Apr-2024 09:09:02 UTC] PHP Parse error:  Unclosed '{' on line 267 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 308
+[09-Apr-2024 00:58:47 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 35
+[09-Apr-2024 00:58:47 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 193
+[09-Apr-2024 00:58:47 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 193
+[09-Apr-2024 01:07:01 UTC] PHP Parse error:  syntax error, unexpected token "?" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 262
+[09-Apr-2024 01:50:42 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "./Announcements.php?E=" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 131
+[09-Apr-2024 01:53:08 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "./Announcements.php?E=" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 131
+[09-Apr-2024 01:56:06 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "./Announcements.php?E=" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 131
+[09-Apr-2024 01:57:59 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "Announcements.php?E=" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 131
+[09-Apr-2024 01:58:24 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "Announcements.php?E=" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 131
+[09-Apr-2024 01:58:27 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "Announcements.php?E=" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 131
+[09-Apr-2024 02:00:39 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "Announcements.php?E=" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 131
+[09-Apr-2024 02:00:41 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "Announcements.php?E=" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 131
+[09-Apr-2024 02:04:47 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "Announcements.php?E=" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 131
+[09-Apr-2024 02:04:50 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "Announcements.php?E=" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 131
+[09-Apr-2024 02:06:08 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "Announcements.php?E=" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 132
+[09-Apr-2024 02:08:25 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "Announcements.php?E=", expecting "," or ";" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 131
+[09-Apr-2024 02:16:11 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 30
+[09-Apr-2024 02:16:11 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 30
+[09-Apr-2024 02:16:11 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 30
+[09-Apr-2024 02:16:11 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 30
+[09-Apr-2024 02:19:23 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 30
+[09-Apr-2024 02:19:23 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 30
+[09-Apr-2024 02:19:23 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 30
+[09-Apr-2024 02:19:23 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 30
+[09-Apr-2024 02:21:28 UTC] PHP Parse error:  syntax error, unexpected token "{", expecting "(" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 36
+[09-Apr-2024 02:24:25 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 33
+[09-Apr-2024 02:24:25 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 33
+[09-Apr-2024 02:24:25 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 33
+[09-Apr-2024 02:24:25 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 33
+[09-Apr-2024 02:27:32 UTC] PHP Warning:  Array to string conversion in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 30
+[09-Apr-2024 02:27:32 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 34
+[09-Apr-2024 02:27:32 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 34
+[09-Apr-2024 02:27:32 UTC] PHP Warning:  Array to string conversion in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 30
+[09-Apr-2024 02:27:32 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 34
+[09-Apr-2024 02:27:32 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 34
+[09-Apr-2024 02:29:18 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 34
+[09-Apr-2024 02:29:18 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 34
+[09-Apr-2024 02:29:18 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 34
+[09-Apr-2024 02:29:18 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 34
+[09-Apr-2024 03:14:56 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 167
+[09-Apr-2024 03:16:46 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 172
+[09-Apr-2024 03:17:18 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 172
+[09-Apr-2024 03:37:32 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "bi bi-pencil-fill" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 173
+[09-Apr-2024 03:38:36 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "bi bi-pencil-fill" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 173
+[09-Apr-2024 03:39:40 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "bi bi-pencil-fill" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 171
+[09-Apr-2024 03:42:42 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 31
+[09-Apr-2024 03:42:42 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 31
+[09-Apr-2024 03:42:42 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 31
+[09-Apr-2024 03:42:42 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 31
+[09-Apr-2024 03:42:42 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_row(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/rwomoq266ddc/public_html/portal/Announcements.php:135
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/Announcements.php(135): mysqli_fetch_row()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 135
+[09-Apr-2024 03:51:34 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 31
+[09-Apr-2024 03:51:34 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 31
+[09-Apr-2024 03:51:34 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 31
+[09-Apr-2024 03:51:34 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 31
+[09-Apr-2024 03:51:34 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_row(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/rwomoq266ddc/public_html/portal/Announcements.php:138
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/Announcements.php(138): mysqli_fetch_row()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 138
+[09-Apr-2024 03:54:25 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 03:54:25 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 03:54:25 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 03:54:25 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 03:54:25 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_row(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/rwomoq266ddc/public_html/portal/Announcements.php:138
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/Announcements.php(138): mysqli_fetch_row()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 138
+[09-Apr-2024 04:02:32 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:02:32 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:02:32 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:02:32 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:02:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "now" in /home/rwomoq266ddc/public_html/portal/Announcements.php:118
+Stack trace:
+#0 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 118
+[09-Apr-2024 04:03:22 UTC] PHP Parse error:  syntax error, unexpected variable "$result", expecting "," or ";" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 127
+[09-Apr-2024 04:03:47 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:03:47 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:03:47 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:03:47 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:03:47 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "now" in /home/rwomoq266ddc/public_html/portal/Announcements.php:118
+Stack trace:
+#0 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 118
+[09-Apr-2024 04:05:33 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:05:33 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:05:33 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:05:33 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:05:33 UTC] PHP Fatal error:  Uncaught Error: Object of class DateTime could not be converted to string in /home/rwomoq266ddc/public_html/portal/Announcements.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 125
+[09-Apr-2024 04:06:44 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:06:44 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:06:44 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:06:44 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:06:44 UTC] PHP Fatal error:  Uncaught Error: Object of class DateTime could not be converted to string in /home/rwomoq266ddc/public_html/portal/Announcements.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 125
+[09-Apr-2024 04:07:25 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:07:25 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:07:25 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:07:25 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:07:25 UTC] PHP Fatal error:  Uncaught Error: Object of class DateTime could not be converted to string in /home/rwomoq266ddc/public_html/portal/Announcements.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 125
+[09-Apr-2024 04:08:36 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:08:36 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:08:36 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:08:36 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:09:30 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:09:30 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:09:30 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:09:30 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:11:11 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:11:11 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:11:11 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:11:11 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:12:28 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:12:28 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:12:28 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 31
+[09-Apr-2024 04:12:28 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 31
+[09-Apr-2024 04:15:35 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:15:35 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:15:35 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:15:35 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 38
+[09-Apr-2024 04:19:00 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 31
+[09-Apr-2024 04:19:00 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 31
+[09-Apr-2024 04:19:00 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 31
+[09-Apr-2024 04:19:00 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 31
+[09-Apr-2024 04:19:32 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 31
+[09-Apr-2024 04:19:32 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 31
+[09-Apr-2024 04:19:32 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 31
+[09-Apr-2024 04:19:32 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 31
+[09-Apr-2024 04:27:06 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 39
+[09-Apr-2024 04:27:06 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 39
+[09-Apr-2024 04:27:06 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 39
+[09-Apr-2024 04:27:06 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 39
+[09-Apr-2024 04:30:29 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 39
+[09-Apr-2024 04:30:29 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 39
+[09-Apr-2024 05:20:58 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 144
+[09-Apr-2024 05:21:01 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 144
+[09-Apr-2024 05:21:32 UTC] PHP Warning:  Undefined array key "D" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 139
+[09-Apr-2024 05:21:32 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 139
+[09-Apr-2024 05:24:40 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 146
+[09-Apr-2024 05:29:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isNumeric() in /home/rwomoq266ddc/public_html/portal/Announcements.php:140
+Stack trace:
+#0 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 140
+[10-Apr-2024 03:57:12 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 10
+[10-Apr-2024 03:57:12 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 78
+[10-Apr-2024 03:57:12 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 78
+[10-Apr-2024 22:20:28 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 10
+[10-Apr-2024 22:20:28 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 78
+[10-Apr-2024 22:20:28 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 78
+[15-Apr-2024 01:09:55 UTC] PHP Warning:  Undefined variable $_user_birthdate in /home/rwomoq266ddc/public_html/portal/users.php on line 159
+[15-Apr-2024 01:09:55 UTC] PHP Warning:  Undefined variable $ag_id in /home/rwomoq266ddc/public_html/portal/users.php on line 159
+[15-Apr-2024 01:19:44 UTC] PHP Warning:  Undefined variable $_user_birthdate in /home/rwomoq266ddc/public_html/portal/users.php on line 160
+[15-Apr-2024 01:20:41 UTC] PHP Warning:  Undefined variable $p_user_birthdate in /home/rwomoq266ddc/public_html/portal/users.php on line 160
+[15-Apr-2024 01:21:30 UTC] PHP Warning:  Undefined variable $p_user_birthdate in /home/rwomoq266ddc/public_html/portal/users.php on line 160
+[15-Apr-2024 02:07:06 UTC] PHP Parse error:  syntax error, unexpected token "=" in /home/rwomoq266ddc/public_html/portal/users.php on line 217
+[15-Apr-2024 02:07:42 UTC] PHP Parse error:  syntax error, unexpected token "=" in /home/rwomoq266ddc/public_html/portal/users.php on line 217
+[15-Apr-2024 02:08:07 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 44
+[15-Apr-2024 02:08:07 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 274
+[15-Apr-2024 02:08:07 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 274
+[15-Apr-2024 02:08:24 UTC] PHP Parse error:  syntax error, unexpected token "=" in /home/rwomoq266ddc/public_html/portal/users.php on line 217
+[15-Apr-2024 02:11:48 UTC] PHP Parse error:  syntax error, unexpected token "=" in /home/rwomoq266ddc/public_html/portal/users.php on line 218
+[15-Apr-2024 02:12:56 UTC] PHP Parse error:  syntax error, unexpected token "=" in /home/rwomoq266ddc/public_html/portal/users.php on line 218
+[15-Apr-2024 02:13:13 UTC] PHP Parse error:  syntax error, unexpected token "=" in /home/rwomoq266ddc/public_html/portal/users.php on line 218
+[15-Apr-2024 02:13:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Commands out of sync; you can't run this command now in /home/rwomoq266ddc/public_html/portal/users.php:220
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/users.php(220): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/users.php on line 220
+[15-Apr-2024 02:22:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Commands out of sync; you can't run this command now in /home/rwomoq266ddc/public_html/portal/users.php:219
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/users.php(219): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/users.php on line 219
+[15-Apr-2024 02:26:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::store_result() in /home/rwomoq266ddc/public_html/portal/users.php:163
+Stack trace:
+#0 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/users.php on line 163
+[15-Apr-2024 02:30:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Commands out of sync; you can't run this command now in /home/rwomoq266ddc/public_html/portal/users.php:220
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/users.php(220): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/users.php on line 220
+[15-Apr-2024 02:36:08 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/rwomoq266ddc/public_html/portal/users.php:220
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/users.php(220): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/users.php on line 220
+[15-Apr-2024 02:47:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Get_States()' at line 1 in /home/rwomoq266ddc/public_html/portal/users.php:222
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/users.php(222): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/users.php on line 222
+[15-Apr-2024 02:51:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Get_States()' at line 1 in /home/rwomoq266ddc/public_html/portal/users.php:223
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/users.php(223): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/users.php on line 223
+[15-Apr-2024 03:27:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "state" in /home/rwomoq266ddc/public_html/portal/users.php:350
+Stack trace:
+#0 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/users.php on line 350
+[15-Apr-2024 03:34:41 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/rwomoq266ddc/public_html/portal/users.php on line 19
+[15-Apr-2024 03:34:41 UTC] PHP Warning:  Undefined variable $_user_birthdate in /home/rwomoq266ddc/public_html/portal/users.php on line 149
+[15-Apr-2024 03:34:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '_user_password' in 'field list' in /home/rwomoq266ddc/public_html/portal/users.php:150
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/users.php(150): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/users.php on line 150
+[15-Apr-2024 03:42:48 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/rwomoq266ddc/public_html/portal/users.php on line 19
+[15-Apr-2024 03:42:48 UTC] PHP Warning:  Undefined variable $_user_birthdate in /home/rwomoq266ddc/public_html/portal/users.php on line 151
+[15-Apr-2024 03:44:03 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/rwomoq266ddc/public_html/portal/users.php on line 19
+[15-Apr-2024 03:44:03 UTC] PHP Warning:  Undefined variable $user_birthdate in /home/rwomoq266ddc/public_html/portal/users.php on line 151
+[15-Apr-2024 03:44:34 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/rwomoq266ddc/public_html/portal/users.php on line 19
+[15-Apr-2024 03:59:07 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/users.php on line 42
+[15-Apr-2024 03:59:07 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/users.php on line 42
+[15-Apr-2024 03:59:07 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/users.php on line 42
+[15-Apr-2024 03:59:07 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/users.php on line 42
+[16-Apr-2024 03:19:05 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/users.php on line 48
+[16-Apr-2024 03:19:05 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/users.php on line 322
+[16-Apr-2024 03:19:05 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/users.php on line 322
+[16-Apr-2024 04:00:22 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/users.php on line 48
+[16-Apr-2024 04:00:22 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/users.php on line 326
+[16-Apr-2024 04:00:22 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/users.php on line 326
+[16-Apr-2024 04:03:25 UTC] PHP Warning:  Undefined variable $user_bithdate in /home/rwomoq266ddc/public_html/portal/users.php on line 170
+[16-Apr-2024 04:04:29 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/users.php on line 43
+[16-Apr-2024 04:04:29 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/users.php on line 43
+[16-Apr-2024 04:04:29 UTC] PHP Warning:  Undefined variable $user_bithdate in /home/rwomoq266ddc/public_html/portal/users.php on line 147
+[16-Apr-2024 04:06:18 UTC] PHP Warning:  Undefined variable $user_bithdate in /home/rwomoq266ddc/public_html/portal/users.php on line 170
+[16-Apr-2024 04:08:11 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/users.php on line 43
+[16-Apr-2024 04:08:11 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/users.php on line 43
+[16-Apr-2024 04:09:52 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/users.php on line 48
+[16-Apr-2024 04:09:52 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/users.php on line 326
+[16-Apr-2024 04:09:52 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/users.php on line 326
+[16-Apr-2024 04:10:36 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/users.php on line 43
+[16-Apr-2024 04:10:36 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/users.php on line 43
+[16-Apr-2024 04:20:46 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/users.php on line 43
+[16-Apr-2024 04:20:46 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/users.php on line 43
+[16-Apr-2024 04:20:46 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/users.php on line 43
+[16-Apr-2024 04:20:46 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/users.php on line 43
+[16-Apr-2024 04:21:09 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/users.php on line 43
+[16-Apr-2024 04:21:09 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/users.php on line 43
+[16-Apr-2024 04:22:14 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/users.php on line 44
+[16-Apr-2024 04:22:14 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/users.php on line 44
+[16-Apr-2024 04:24:46 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/users.php on line 44
+[16-Apr-2024 04:24:46 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/users.php on line 44
+[16-Apr-2024 04:24:46 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/users.php on line 44
+[16-Apr-2024 04:24:46 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/users.php on line 44
+[16-Apr-2024 04:26:11 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/users.php on line 44
+[16-Apr-2024 04:26:11 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/users.php on line 44
+[16-Apr-2024 04:26:11 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/users.php on line 44
+[16-Apr-2024 04:26:11 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/users.php on line 44
+[16-Apr-2024 04:28:49 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/users.php on line 44
+[16-Apr-2024 04:28:49 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/users.php on line 44
+[17-Apr-2024 00:41:01 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 44
+[17-Apr-2024 00:41:01 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 274
+[17-Apr-2024 00:41:01 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 274
+[20-Apr-2024 21:23:42 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 10
+[20-Apr-2024 21:23:42 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 78
+[20-Apr-2024 21:23:42 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 78
+[20-Apr-2024 22:29:08 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/users.php on line 48
+[20-Apr-2024 22:29:08 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/users.php on line 327
+[20-Apr-2024 22:29:08 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/users.php on line 327
+[20-Apr-2024 22:38:54 UTC] PHP Parse error:  syntax error, unexpected token "if", expecting "," or ";" in /home/rwomoq266ddc/public_html/portal/Programs.php on line 32
+[21-Apr-2024 05:59:43 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 10
+[21-Apr-2024 05:59:43 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 78
+[21-Apr-2024 05:59:43 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 78
+[21-Apr-2024 06:00:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: PROCEDURE Student_Portal.SP_classs does not exist in /home/rwomoq266ddc/public_html/portal/Classes.php:94
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/Classes.php(94): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/Classes.php on line 94
+[21-Apr-2024 06:02:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: PROCEDURE Student_Portal.SP_classs does not exist in /home/rwomoq266ddc/public_html/portal/Classes.php:94
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/Classes.php(94): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/Classes.php on line 94
+[21-Apr-2024 06:23:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Student_Portal.classs' doesn't exist in /home/rwomoq266ddc/public_html/portal/Classes.php:75
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/Classes.php(75): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/Classes.php on line 75
+[21-Apr-2024 06:36:25 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home/rwomoq266ddc/public_html/portal/Classes.php on line 77
+[21-Apr-2024 06:36:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Student_Portal.classs' doesn't exist in /home/rwomoq266ddc/public_html/portal/Classes.php:75
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/Classes.php(75): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/Classes.php on line 75
+[21-Apr-2024 08:07:48 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Classes.php on line 16
+[21-Apr-2024 08:07:48 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Classes.php on line 255
+[21-Apr-2024 08:07:48 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Classes.php on line 255
+[21-Apr-2024 08:11:12 UTC] PHP Warning:  Undefined variable $Get_Training_Material_Type in /home/rwomoq266ddc/public_html/portal/Classes.php on line 175
+[21-Apr-2024 15:23:57 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Classes.php on line 16
+[21-Apr-2024 15:23:57 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Classes.php on line 257
+[21-Apr-2024 15:23:57 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Classes.php on line 257
+[21-Apr-2024 17:03:51 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Classes.php on line 16
+[21-Apr-2024 17:03:51 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Classes.php on line 270
+[21-Apr-2024 17:03:51 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Classes.php on line 270
+[21-Apr-2024 18:34:11 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 10
+[21-Apr-2024 18:34:11 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 78
+[21-Apr-2024 18:34:11 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 78
+[21-Apr-2024 19:48:33 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Classes.php on line 16
+[21-Apr-2024 19:48:33 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Classes.php on line 271
+[21-Apr-2024 19:48:33 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Classes.php on line 271
+[21-Apr-2024 19:48:59 UTC] PHP Parse error:  syntax error, unexpected token "if" in /home/rwomoq266ddc/public_html/portal/tm.php on line 24
+[21-Apr-2024 19:49:57 UTC] PHP Parse error:  syntax error, unexpected token "if" in /home/rwomoq266ddc/public_html/portal/tm.php on line 24
+[21-Apr-2024 19:50:27 UTC] PHP Warning:  mkdir(): Permission denied in /home/rwomoq266ddc/public_html/portal/tm.php on line 25
+[21-Apr-2024 19:51:17 UTC] PHP Warning:  mkdir(): Permission denied in /home/rwomoq266ddc/public_html/portal/tm.php on line 25
+[21-Apr-2024 19:53:01 UTC] PHP Warning:  mkdir(): Permission denied in /home/rwomoq266ddc/public_html/portal/tm.php on line 25
+[21-Apr-2024 20:35:02 UTC] PHP Parse error:  Unclosed '{' on line 66 does not match ')' in /home/rwomoq266ddc/public_html/portal/tm.php on line 69
+[21-Apr-2024 20:45:46 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Classes.php on line 16
+[21-Apr-2024 20:45:46 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Classes.php on line 271
+[21-Apr-2024 20:45:46 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Classes.php on line 271
+[21-Apr-2024 21:41:52 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 10
+[21-Apr-2024 21:41:52 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 78
+[21-Apr-2024 21:41:52 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 78
+[24-Apr-2024 01:14:25 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Classes.php on line 16
+[24-Apr-2024 01:14:25 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Classes.php on line 271
+[24-Apr-2024 01:14:25 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Classes.php on line 271
+[24-Apr-2024 01:34:58 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 10
+[24-Apr-2024 01:34:58 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 78
+[24-Apr-2024 01:34:58 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 78
+[24-Apr-2024 03:37:20 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/users.php on line 48
+[24-Apr-2024 03:37:20 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/users.php on line 327
+[24-Apr-2024 03:37:20 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/users.php on line 327
+[26-Apr-2024 03:48:24 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/index.php on line 10
+[26-Apr-2024 03:48:24 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/index.php on line 78
+[26-Apr-2024 03:48:24 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/index.php on line 78
+[26-Apr-2024 03:49:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Get_Announcements()' at line 1 in /home/rwomoq266ddc/public_html/portal/index.php:15
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(15): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 15
+[26-Apr-2024 03:50:36 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 39
+[26-Apr-2024 03:50:36 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 39
+[26-Apr-2024 03:50:36 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 39
+[26-Apr-2024 03:50:36 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 39
+[26-Apr-2024 03:51:14 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 39
+[26-Apr-2024 03:51:14 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 39
+[26-Apr-2024 03:51:14 UTC] PHP Warning:  Undefined array key 1 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 39
+[26-Apr-2024 03:51:14 UTC] PHP Warning:  Undefined array key 2 in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 39
+[26-Apr-2024 04:55:48 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Classes.php on line 16
+[26-Apr-2024 04:55:48 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Classes.php on line 271
+[26-Apr-2024 04:55:48 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Classes.php on line 271
+[26-Apr-2024 04:55:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Commands out of sync; you can't run this command now in /home/rwomoq266ddc/public_html/portal/index.php:32
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(32): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 32
+[26-Apr-2024 05:02:54 UTC] PHP Warning:  Undefined variable $previous_class_id in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[26-Apr-2024 05:02:54 UTC] PHP Warning:  Undefined variable $output in /home/rwomoq266ddc/public_html/portal/index.php on line 48
+[26-Apr-2024 05:13:50 UTC] PHP Warning:  Undefined variable $output in /home/rwomoq266ddc/public_html/portal/index.php on line 50
+[26-Apr-2024 05:15:19 UTC] PHP Warning:  Undefined variable $output in /home/rwomoq266ddc/public_html/portal/index.php on line 50
+[26-Apr-2024 05:18:30 UTC] PHP Warning:  Undefined variable $output in /home/rwomoq266ddc/public_html/portal/index.php on line 55
+[29-Apr-2024 03:43:31 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[29-Apr-2024 03:43:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[29-Apr-2024 04:00:43 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Classes.php on line 16
+[29-Apr-2024 04:00:43 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Classes.php on line 271
+[29-Apr-2024 04:00:43 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Classes.php on line 271
+[29-Apr-2024 04:29:48 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[29-Apr-2024 04:29:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[29-Apr-2024 21:21:26 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[29-Apr-2024 21:21:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[29-Apr-2024 22:21:08 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 44
+[29-Apr-2024 22:21:08 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 274
+[29-Apr-2024 22:21:08 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 274
+[30-Apr-2024 01:17:25 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 44
+[30-Apr-2024 01:17:25 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 274
+[30-Apr-2024 01:17:25 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 274
+[30-Apr-2024 02:27:59 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 28
+[30-Apr-2024 02:27:59 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 252
+[30-Apr-2024 02:27:59 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Announcements.php on line 252
+[01-May-2024 00:01:46 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[01-May-2024 00:01:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[01-May-2024 04:35:02 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[01-May-2024 04:35:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[01-May-2024 23:43:02 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Classes.php on line 16
+[01-May-2024 23:43:02 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Classes.php on line 271
+[01-May-2024 23:43:02 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Classes.php on line 271
+[03-May-2024 03:29:39 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[03-May-2024 03:29:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[05-May-2024 23:26:41 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[05-May-2024 23:26:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[06-May-2024 04:40:50 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[06-May-2024 04:40:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[19-Jun-2024 17:58:22 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[19-Jun-2024 17:58:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[03-Jul-2024 06:24:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Get_Pending_Registration_Users('')' at line 1 in /home/rwomoq266ddc/public_html/portal/Registration.php:52
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/Registration.php(52): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/Registration.php on line 52
+[03-Jul-2024 06:25:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Get_Pending_Registration_Users('')' at line 1 in /home/rwomoq266ddc/public_html/portal/Registration.php:52
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/Registration.php(52): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/Registration.php on line 52
+[03-Jul-2024 06:27:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Get_Pending_Registration_Users('')' at line 1 in /home/rwomoq266ddc/public_html/portal/Registration.php:46
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/Registration.php(46): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/Registration.php on line 46
+[03-Jul-2024 06:27:52 UTC] PHP Warning:  Undefined variable $user_id in /home/rwomoq266ddc/public_html/portal/Registration.php on line 73
+[03-Jul-2024 06:27:52 UTC] PHP Warning:  Undefined variable $user_id in /home/rwomoq266ddc/public_html/portal/Registration.php on line 75
+[03-Jul-2024 06:27:52 UTC] PHP Warning:  Undefined variable $$('#a').click(function(){
+ in /home/rwomoq266ddc/public_html/portal/Registration.php on line 75
+[03-Jul-2024 06:27:52 UTC] PHP Warning:  Undefined variable $user_id in /home/rwomoq266ddc/public_html/portal/Registration.php on line 73
+[03-Jul-2024 06:27:52 UTC] PHP Warning:  Undefined variable $user_id in /home/rwomoq266ddc/public_html/portal/Registration.php on line 75
+[03-Jul-2024 06:27:52 UTC] PHP Warning:  Undefined variable $$('#a').click(function(){
+});
+
+$('#a').click(function(){
+ in /home/rwomoq266ddc/public_html/portal/Registration.php on line 75
+[03-Jul-2024 06:27:52 UTC] PHP Warning:  Undefined variable $user_id in /home/rwomoq266ddc/public_html/portal/Registration.php on line 73
+[03-Jul-2024 06:27:52 UTC] PHP Warning:  Undefined variable $user_id in /home/rwomoq266ddc/public_html/portal/Registration.php on line 75
+[03-Jul-2024 06:27:52 UTC] PHP Warning:  Undefined variable $$('#a').click(function(){
+});
+
+$('#a').click(function(){
+});
+
+$('#a').click(function(){
+ in /home/rwomoq266ddc/public_html/portal/Registration.php on line 75
+[03-Jul-2024 06:27:52 UTC] PHP Warning:  Undefined variable $user_id in /home/rwomoq266ddc/public_html/portal/Registration.php on line 73
+[03-Jul-2024 06:27:52 UTC] PHP Warning:  Undefined variable $user_id in /home/rwomoq266ddc/public_html/portal/Registration.php on line 75
+[03-Jul-2024 06:27:52 UTC] PHP Warning:  Undefined variable $$('#a').click(function(){
+});
+
+$('#a').click(function(){
+});
+
+$('#a').click(function(){
+});
+
+$('#a').click(function(){
+ in /home/rwomoq266ddc/public_html/portal/Registration.php on line 75
+[03-Jul-2024 06:27:52 UTC] PHP Warning:  Undefined variable $user_id in /home/rwomoq266ddc/public_html/portal/Registration.php on line 73
+[03-Jul-2024 06:27:52 UTC] PHP Warning:  Undefined variable $user_id in /home/rwomoq266ddc/public_html/portal/Registration.php on line 75
+[03-Jul-2024 06:27:52 UTC] PHP Warning:  Undefined variable $$('#a').click(function(){
+});
+
+$('#a').click(function(){
+});
+
+$('#a').click(function(){
+});
+
+$('#a').click(function(){
+});
+
+$('#a').click(function(){
+ in /home/rwomoq266ddc/public_html/portal/Registration.php on line 75
+[03-Jul-2024 06:27:52 UTC] PHP Fatal error:  Uncaught Error: mysqli_result object is already closed in /home/rwomoq266ddc/public_html/portal/Registration.php:84
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/Registration.php(84): mysqli_free_result()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/Registration.php on line 84
+[03-Jul-2024 06:28:43 UTC] PHP Warning:  Undefined variable $$('#a20').click(function(){
+ in /home/rwomoq266ddc/public_html/portal/Registration.php on line 75
+[03-Jul-2024 06:28:43 UTC] PHP Warning:  Undefined variable $$('#a20').click(function(){
+});
+
+$('#a21').click(function(){
+ in /home/rwomoq266ddc/public_html/portal/Registration.php on line 75
+[03-Jul-2024 06:28:43 UTC] PHP Warning:  Undefined variable $$('#a20').click(function(){
+});
+
+$('#a21').click(function(){
+});
+
+$('#a22').click(function(){
+ in /home/rwomoq266ddc/public_html/portal/Registration.php on line 75
+[03-Jul-2024 06:28:43 UTC] PHP Warning:  Undefined variable $$('#a20').click(function(){
+});
+
+$('#a21').click(function(){
+});
+
+$('#a22').click(function(){
+});
+
+$('#a23').click(function(){
+ in /home/rwomoq266ddc/public_html/portal/Registration.php on line 75
+[03-Jul-2024 06:28:43 UTC] PHP Warning:  Undefined variable $$('#a20').click(function(){
+});
+
+$('#a21').click(function(){
+});
+
+$('#a22').click(function(){
+});
+
+$('#a23').click(function(){
+});
+
+$('#a24').click(function(){
+ in /home/rwomoq266ddc/public_html/portal/Registration.php on line 75
+[03-Jul-2024 06:28:43 UTC] PHP Fatal error:  Uncaught Error: mysqli_result object is already closed in /home/rwomoq266ddc/public_html/portal/Registration.php:84
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/Registration.php(84): mysqli_free_result()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/Registration.php on line 84
+[03-Jul-2024 06:29:01 UTC] PHP Fatal error:  Uncaught Error: mysqli_result object is already closed in /home/rwomoq266ddc/public_html/portal/Registration.php:84
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/Registration.php(84): mysqli_free_result()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/Registration.php on line 84
+[03-Jul-2024 15:23:33 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 22
+[03-Jul-2024 15:23:33 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 170
+[03-Jul-2024 15:23:33 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 170
+[03-Jul-2024 15:44:02 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 22
+[03-Jul-2024 15:44:02 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 170
+[03-Jul-2024 15:44:02 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 170
+[04-Jul-2024 05:06:45 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[04-Jul-2024 05:06:45 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 205
+[04-Jul-2024 05:06:45 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 205
+[04-Jul-2024 06:45:53 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[04-Jul-2024 06:45:53 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 205
+[04-Jul-2024 06:45:53 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 205
+[04-Jul-2024 06:46:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '')' at line 1 in /home/rwomoq266ddc/public_html/portal/register.php:41
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/register.php(41): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/register.php on line 41
+[04-Jul-2024 06:47:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Student_Portal.registration' doesn't exist in /home/rwomoq266ddc/public_html/portal/register.php:41
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/register.php(41): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/register.php on line 41
+[04-Jul-2024 06:48:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Student_Portal.registration' doesn't exist in /home/rwomoq266ddc/public_html/portal/register.php:42
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/register.php(42): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/register.php on line 42
+[04-Jul-2024 06:49:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'student_id' in 'field list' in /home/rwomoq266ddc/public_html/portal/register.php:42
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/register.php(42): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/register.php on line 42
+[04-Jul-2024 06:54:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '_student_email' in 'where clause' in /home/rwomoq266ddc/public_html/portal/register.php:42
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/register.php(42): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/register.php on line 42
+[04-Jul-2024 06:57:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "end" in /home/rwomoq266ddc/public_html/portal/register.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/register.php on line 64
+[04-Jul-2024 08:31:22 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[04-Jul-2024 08:31:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[04-Jul-2024 08:37:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Student_Portal.registration' doesn't exist in /home/rwomoq266ddc/public_html/portal/register.php:41
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/register.php(41): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/register.php on line 41
+[04-Jul-2024 09:38:38 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[04-Jul-2024 09:38:38 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 205
+[04-Jul-2024 09:38:38 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 205
+[04-Jul-2024 09:38:41 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[04-Jul-2024 09:38:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[05-Jul-2024 05:10:05 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[05-Jul-2024 05:10:05 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[05-Jul-2024 05:10:05 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[05-Jul-2024 05:10:08 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[05-Jul-2024 05:10:08 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[05-Jul-2024 05:10:08 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[05-Jul-2024 05:13:24 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[05-Jul-2024 05:13:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[05-Jul-2024 22:56:35 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/users.php on line 48
+[05-Jul-2024 22:56:35 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/users.php on line 327
+[05-Jul-2024 22:56:35 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/users.php on line 327
+[05-Jul-2024 23:51:45 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/users.php on line 48
+[05-Jul-2024 23:51:45 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/users.php on line 327
+[05-Jul-2024 23:51:45 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/users.php on line 327
+[05-Jul-2024 23:56:23 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/users.php on line 48
+[05-Jul-2024 23:56:23 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/users.php on line 327
+[05-Jul-2024 23:56:23 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/users.php on line 327
+[05-Jul-2024 23:57:21 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/users.php on line 48
+[05-Jul-2024 23:57:21 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/users.php on line 327
+[05-Jul-2024 23:57:21 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/users.php on line 327
+[06-Jul-2024 01:36:18 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[06-Jul-2024 01:36:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[06-Jul-2024 11:29:50 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/users.php on line 48
+[06-Jul-2024 11:29:50 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/users.php on line 327
+[06-Jul-2024 11:29:50 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/users.php on line 327
+[06-Jul-2024 11:41:46 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/users.php on line 48
+[06-Jul-2024 11:41:46 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/users.php on line 327
+[06-Jul-2024 11:41:46 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/users.php on line 327
+[06-Jul-2024 14:03:41 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/users.php on line 48
+[06-Jul-2024 14:03:41 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/users.php on line 327
+[06-Jul-2024 14:03:41 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/users.php on line 327
+[06-Jul-2024 14:22:03 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/users.php on line 48
+[06-Jul-2024 14:22:03 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/users.php on line 327
+[06-Jul-2024 14:22:03 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/users.php on line 327
+[09-Jul-2024 01:02:59 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[09-Jul-2024 01:02:59 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[09-Jul-2024 01:02:59 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[10-Jul-2024 02:10:29 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Classes.php on line 16
+[10-Jul-2024 02:10:29 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Classes.php on line 271
+[10-Jul-2024 02:10:29 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Classes.php on line 271
+[10-Jul-2024 02:16:40 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[10-Jul-2024 02:16:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[10-Jul-2024 03:34:10 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/users.php on line 48
+[10-Jul-2024 03:34:10 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/users.php on line 327
+[10-Jul-2024 03:34:10 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/users.php on line 327
+[12-Jul-2024 03:44:37 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[12-Jul-2024 03:44:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[25-Jul-2024 02:59:23 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[25-Jul-2024 02:59:23 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[25-Jul-2024 02:59:23 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[31-Jul-2024 18:55:56 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[31-Jul-2024 18:55:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[03-Aug-2024 04:54:10 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[03-Aug-2024 04:54:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[05-Aug-2024 15:28:18 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[05-Aug-2024 15:28:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[12-Aug-2024 06:02:59 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[12-Aug-2024 06:02:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[13-Aug-2024 18:37:08 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[13-Aug-2024 18:37:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[27-Aug-2024 19:10:32 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[27-Aug-2024 19:10:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[30-Aug-2024 15:27:00 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[30-Aug-2024 15:27:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[03-Sep-2024 01:13:53 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[03-Sep-2024 01:13:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[08-Sep-2024 05:42:55 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[08-Sep-2024 05:42:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[11-Sep-2024 21:48:35 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[11-Sep-2024 21:48:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[07-Oct-2024 01:26:01 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[07-Oct-2024 01:26:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[12-Nov-2024 19:29:38 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[12-Nov-2024 19:29:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[12-Nov-2024 19:32:40 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[12-Nov-2024 19:32:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[12-Nov-2024 19:37:53 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[12-Nov-2024 19:37:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[12-Nov-2024 19:38:58 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[12-Nov-2024 19:38:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[12-Nov-2024 19:41:10 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[12-Nov-2024 19:41:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[12-Nov-2024 19:43:35 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[12-Nov-2024 19:43:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[12-Nov-2024 21:03:18 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/users.php on line 48
+[12-Nov-2024 21:03:18 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/users.php on line 327
+[12-Nov-2024 21:03:18 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/users.php on line 327
+[13-Nov-2024 05:05:56 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[13-Nov-2024 05:05:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[13-Nov-2024 06:41:23 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[13-Nov-2024 06:41:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[13-Nov-2024 20:50:17 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[13-Nov-2024 20:50:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[14-Nov-2024 23:50:42 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[14-Nov-2024 23:50:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[15-Nov-2024 01:28:05 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[15-Nov-2024 01:28:05 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[15-Nov-2024 01:28:05 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[15-Nov-2024 21:37:49 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[15-Nov-2024 21:37:49 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[15-Nov-2024 21:37:49 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[15-Nov-2024 22:24:58 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[15-Nov-2024 22:24:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[15-Nov-2024 22:28:56 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[15-Nov-2024 22:28:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[15-Nov-2024 22:44:00 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[15-Nov-2024 22:44:00 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[15-Nov-2024 22:44:00 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[15-Nov-2024 23:56:26 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[15-Nov-2024 23:56:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[16-Nov-2024 01:11:38 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[16-Nov-2024 01:11:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[16-Nov-2024 04:09:13 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[16-Nov-2024 04:09:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[16-Nov-2024 15:35:07 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[16-Nov-2024 15:35:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[16-Nov-2024 16:29:04 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[16-Nov-2024 16:29:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[16-Nov-2024 22:46:26 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[16-Nov-2024 22:46:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[18-Nov-2024 22:13:02 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[18-Nov-2024 22:13:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[20-Jan-2025 21:33:52 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[20-Jan-2025 21:33:52 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[20-Jan-2025 21:33:52 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[22-Jan-2025 22:35:19 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[22-Jan-2025 22:35:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[31-Jan-2025 20:08:23 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[31-Jan-2025 20:08:23 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[31-Jan-2025 20:08:23 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[31-Jan-2025 22:27:06 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[31-Jan-2025 22:27:06 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[31-Jan-2025 22:27:06 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[04-Feb-2025 20:37:13 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[04-Feb-2025 20:37:13 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[04-Feb-2025 20:37:13 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[25-Mar-2025 18:27:02 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[25-Mar-2025 18:27:02 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[25-Mar-2025 18:27:02 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[25-Mar-2025 20:49:10 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[25-Mar-2025 20:49:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[25-Mar-2025 22:20:27 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[25-Mar-2025 22:20:27 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[25-Mar-2025 22:20:27 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[27-Mar-2025 02:30:52 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[27-Mar-2025 02:30:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[03-Apr-2025 18:51:24 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[03-Apr-2025 18:51:24 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[03-Apr-2025 18:51:24 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[01-May-2025 00:08:49 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[01-May-2025 00:08:49 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[01-May-2025 00:08:49 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[01-May-2025 01:53:30 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[01-May-2025 01:53:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[01-May-2025 01:53:49 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[01-May-2025 01:53:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[01-May-2025 03:42:33 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[01-May-2025 03:42:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[01-May-2025 04:20:56 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[01-May-2025 04:20:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[05-May-2025 18:55:25 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[05-May-2025 18:55:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[06-May-2025 02:19:46 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[06-May-2025 02:19:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[06-May-2025 18:17:56 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[06-May-2025 18:17:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[06-May-2025 18:17:56 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[06-May-2025 18:17:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[09-May-2025 04:43:05 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[09-May-2025 04:43:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[09-May-2025 04:43:06 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[09-May-2025 04:43:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[20-May-2025 20:25:21 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[20-May-2025 20:25:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[20-May-2025 20:39:24 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[20-May-2025 20:39:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[20-May-2025 20:47:35 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[20-May-2025 20:47:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[20-May-2025 23:34:48 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[20-May-2025 23:34:48 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[20-May-2025 23:34:48 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[21-May-2025 00:11:25 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[21-May-2025 00:11:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[21-May-2025 00:11:33 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[21-May-2025 00:11:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[21-May-2025 10:13:46 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[21-May-2025 10:13:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[21-May-2025 18:39:24 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[21-May-2025 18:39:24 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[21-May-2025 18:39:24 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[21-May-2025 21:34:07 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[21-May-2025 21:34:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[31-May-2025 16:06:15 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[31-May-2025 16:06:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[01-Jun-2025 16:50:05 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[01-Jun-2025 16:50:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[01-Jun-2025 16:55:20 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[01-Jun-2025 16:55:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[08-Jun-2025 02:04:58 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[08-Jun-2025 02:04:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[09-Jun-2025 14:26:56 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[09-Jun-2025 14:26:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[09-Jun-2025 16:22:46 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[09-Jun-2025 16:22:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[09-Jun-2025 19:23:54 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[09-Jun-2025 19:23:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[11-Jun-2025 14:20:20 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[11-Jun-2025 14:20:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[11-Jun-2025 19:47:54 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[11-Jun-2025 19:47:55 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[11-Jun-2025 19:47:55 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[11-Jun-2025 21:27:42 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[11-Jun-2025 21:27:42 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[11-Jun-2025 21:27:42 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[15-Jun-2025 04:00:03 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[15-Jun-2025 04:00:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[16-Jun-2025 05:39:42 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[16-Jun-2025 05:39:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[17-Jun-2025 07:16:32 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[17-Jun-2025 07:16:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[20-Jun-2025 05:00:41 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[20-Jun-2025 05:00:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[20-Jun-2025 16:23:56 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[20-Jun-2025 16:23:56 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[20-Jun-2025 16:23:56 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[22-Jun-2025 23:09:52 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[22-Jun-2025 23:09:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[24-Jun-2025 12:42:38 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[24-Jun-2025 12:42:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[24-Jun-2025 21:00:09 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[24-Jun-2025 21:00:09 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[24-Jun-2025 21:00:09 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[30-Jun-2025 12:39:10 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[30-Jun-2025 12:39:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[01-Jul-2025 07:23:05 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[01-Jul-2025 07:23:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[02-Jul-2025 07:51:23 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[02-Jul-2025 07:51:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[02-Jul-2025 11:33:38 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[02-Jul-2025 11:33:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[02-Jul-2025 11:33:38 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[02-Jul-2025 11:33:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[02-Jul-2025 22:47:21 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[02-Jul-2025 22:47:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[03-Jul-2025 00:22:36 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[03-Jul-2025 00:22:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[03-Jul-2025 02:21:27 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[03-Jul-2025 02:21:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[04-Jul-2025 19:15:40 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[04-Jul-2025 19:15:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[06-Jul-2025 14:12:41 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[06-Jul-2025 14:12:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[08-Jul-2025 09:18:40 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[08-Jul-2025 09:18:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[10-Jul-2025 03:03:38 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[10-Jul-2025 03:03:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[11-Jul-2025 02:56:03 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[11-Jul-2025 02:56:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[13-Jul-2025 11:00:44 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[13-Jul-2025 11:00:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[14-Jul-2025 04:50:06 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[14-Jul-2025 04:50:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[15-Jul-2025 13:35:02 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[15-Jul-2025 13:35:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[20-Jul-2025 02:09:16 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[20-Jul-2025 02:09:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[21-Jul-2025 23:07:20 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[21-Jul-2025 23:07:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[28-Jul-2025 22:59:42 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[28-Jul-2025 22:59:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[31-Jul-2025 10:42:21 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[31-Jul-2025 10:42:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[31-Jul-2025 19:44:03 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[31-Jul-2025 19:44:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[03-Aug-2025 00:06:41 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[03-Aug-2025 00:06:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[08-Aug-2025 10:42:57 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[08-Aug-2025 10:42:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[10-Aug-2025 09:16:22 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[10-Aug-2025 09:16:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[11-Aug-2025 10:10:12 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[11-Aug-2025 10:10:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[15-Aug-2025 04:45:19 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[15-Aug-2025 04:45:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[15-Aug-2025 06:04:36 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[15-Aug-2025 06:04:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[17-Aug-2025 17:59:30 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[17-Aug-2025 17:59:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[19-Aug-2025 11:03:02 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[19-Aug-2025 11:03:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[23-Aug-2025 15:35:06 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[23-Aug-2025 15:35:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[23-Aug-2025 17:37:42 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[23-Aug-2025 17:37:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[25-Aug-2025 02:00:43 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[25-Aug-2025 02:00:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[26-Aug-2025 01:29:29 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[26-Aug-2025 01:29:29 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[26-Aug-2025 01:29:29 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[26-Aug-2025 16:14:55 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[26-Aug-2025 16:14:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[28-Aug-2025 06:30:59 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[28-Aug-2025 06:30:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[29-Aug-2025 02:05:24 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[29-Aug-2025 02:05:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[01-Sep-2025 19:41:49 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/portal/Registration.php on line 23
+[01-Sep-2025 19:41:49 UTC] PHP Warning:  include(_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[01-Sep-2025 19:41:49 UTC] PHP Warning:  include(): Failed opening '_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/portal/Registration.php on line 206
+[01-Sep-2025 22:53:52 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[01-Sep-2025 22:53:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[02-Sep-2025 17:55:41 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[02-Sep-2025 17:55:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[02-Sep-2025 23:09:49 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[02-Sep-2025 23:09:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[04-Sep-2025 15:38:54 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[04-Sep-2025 15:38:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[07-Sep-2025 23:23:23 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[07-Sep-2025 23:23:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[23-Sep-2025 02:57:15 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[23-Sep-2025 02:57:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[20-Oct-2025 18:26:54 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[20-Oct-2025 18:26:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[24-Oct-2025 02:23:06 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[24-Oct-2025 02:23:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[30-Oct-2025 00:44:29 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[30-Oct-2025 00:44:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[28-Dec-2025 02:19:52 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[28-Dec-2025 02:19:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[20-Jan-2026 15:43:42 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[20-Jan-2026 15:43:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[23-Jan-2026 00:45:35 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[23-Jan-2026 00:45:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[23-Jan-2026 01:21:38 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[23-Jan-2026 01:21:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[25-Jan-2026 23:59:20 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[25-Jan-2026 23:59:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[21-Feb-2026 06:25:48 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[21-Feb-2026 06:25:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[22-Feb-2026 01:34:04 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[22-Feb-2026 01:34:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[04-Mar-2026 17:12:18 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[04-Mar-2026 17:12:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[15-Mar-2026 09:55:28 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[15-Mar-2026 09:55:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47
+[01-May-2026 10:12:19 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/portal/index.php on line 46
+[01-May-2026 10:12:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE Student_Portal.Get_Classes; expected 1, got 0 in /home/rwomoq266ddc/public_html/portal/index.php:47
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/portal/index.php(47): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/portal/index.php on line 47

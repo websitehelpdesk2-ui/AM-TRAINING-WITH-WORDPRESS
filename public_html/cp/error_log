@@ -1,0 +1,80 @@
+[30-Apr-2024 04:34:12 UTC] PHP Warning:  Array to string conversion in /home/rwomoq266ddc/public_html/cp/index.php on line 36
+[30-Apr-2024 04:34:12 UTC] PHP Warning:  Undefined variable $Array in /home/rwomoq266ddc/public_html/cp/index.php on line 36
+[30-Apr-2024 04:34:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/cp/index.php on line 36
+[30-Apr-2024 04:34:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''')' at line 1 in /home/rwomoq266ddc/public_html/cp/index.php:37
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/cp/index.php(37): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/cp/index.php on line 37
+[30-Apr-2024 04:39:03 UTC] PHP Parse error:  syntax error, unexpected token "," in /home/rwomoq266ddc/public_html/cp/index.php on line 38
+[30-Apr-2024 04:40:09 UTC] PHP Warning:  Array to string conversion in /home/rwomoq266ddc/public_html/cp/index.php on line 38
+[30-Apr-2024 04:40:09 UTC] PHP Warning:  Undefined variable $Array in /home/rwomoq266ddc/public_html/cp/index.php on line 38
+[30-Apr-2024 04:40:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rwomoq266ddc/public_html/cp/index.php on line 38
+[30-Apr-2024 04:40:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''C0ntr@s3n~@!St7d3nt','C0ntr@s3n~@!St7d3nt2')' at line 1 in /home/rwomoq266ddc/public_html/cp/index.php:39
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/cp/index.php(39): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/cp/index.php on line 39
+[30-Apr-2024 04:42:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: PROCEDURE Student_Portal.Change_Password does not exist in /home/rwomoq266ddc/public_html/cp/index.php:39
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/cp/index.php(39): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/cp/index.php on line 39
+[05-Jul-2024 02:59:09 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/cp/index.php on line 38
+[05-Jul-2024 02:59:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''somc750201@gmail.com','`12')' at line 1 in /home/rwomoq266ddc/public_html/cp/index.php:39
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/cp/index.php(39): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/cp/index.php on line 39
+[05-Jul-2024 03:00:38 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/cp/index.php on line 38
+[05-Jul-2024 03:00:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''somc750201@gmail.com','465')' at line 1 in /home/rwomoq266ddc/public_html/cp/index.php:39
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/cp/index.php(39): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/cp/index.php on line 39
+[05-Jul-2024 03:05:23 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/cp/index.php on line 38
+[05-Jul-2024 03:05:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''somc750201@gmail.com','342')' at line 1 in /home/rwomoq266ddc/public_html/cp/index.php:39
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/cp/index.php(39): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/cp/index.php on line 39
+[05-Jul-2024 04:21:45 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/cp/index.php on line 38
+[05-Jul-2024 04:21:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''somc750201@gmail.com','fdsfds')' at line 1 in /home/rwomoq266ddc/public_html/cp/index.php:39
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/cp/index.php(39): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/cp/index.php on line 39
+[05-Jul-2024 04:29:05 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/cp/index.php on line 38
+[05-Jul-2024 04:29:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''somc750201@gmail.com','P@ssw0rd')' at line 1 in /home/rwomoq266ddc/public_html/cp/index.php:39
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/cp/index.php(39): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/cp/index.php on line 39
+[05-Jul-2024 04:38:01 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/cp/index.php on line 38
+[05-Jul-2024 04:38:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''somc750201@gmail.com','P@ssw0rd')' at line 1 in /home/rwomoq266ddc/public_html/cp/index.php:39
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/cp/index.php(39): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/cp/index.php on line 39
+[05-Jul-2024 04:45:15 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/cp/index.php on line 38
+[05-Jul-2024 04:45:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''somc750201@gmail.com','P@ssw0rd')' at line 1 in /home/rwomoq266ddc/public_html/cp/index.php:39
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/cp/index.php(39): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/cp/index.php on line 39
+[05-Jul-2024 04:45:55 UTC] PHP Warning:  Undefined array key "UserID" in /home/rwomoq266ddc/public_html/cp/index.php on line 38
+[05-Jul-2024 04:45:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''somc750201@gmail.com','P@ssw0rd')' at line 1 in /home/rwomoq266ddc/public_html/cp/index.php:39
+Stack trace:
+#0 /home/rwomoq266ddc/public_html/cp/index.php(39): mysqli_query()
+#1 {main}
+  thrown in /home/rwomoq266ddc/public_html/cp/index.php on line 39
+[11-Jul-2024 02:45:29 UTC] PHP Warning:  include(/portal/Students_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/cp/index.php on line 136
+[11-Jul-2024 02:45:29 UTC] PHP Warning:  include(): Failed opening '/portal/Students_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/cp/index.php on line 136
+[11-Jul-2024 02:45:50 UTC] PHP Warning:  include(/portal/Students_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/cp/index.php on line 136
+[11-Jul-2024 02:45:50 UTC] PHP Warning:  include(): Failed opening '/portal/Students_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/cp/index.php on line 136
+[12-Jul-2024 03:56:48 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/cp/index.php on line 64
+[12-Jul-2024 03:56:48 UTC] PHP Warning:  include(../portal/_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/cp/index.php on line 136
+[12-Jul-2024 03:56:48 UTC] PHP Warning:  include(): Failed opening '../portal/_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/cp/index.php on line 136
+[15-Nov-2024 23:16:17 UTC] PHP Warning:  Undefined array key "UserGroup" in /home/rwomoq266ddc/public_html/cp/index.php on line 64
+[15-Nov-2024 23:16:17 UTC] PHP Warning:  include(../portal/_nav.php): Failed to open stream: No such file or directory in /home/rwomoq266ddc/public_html/cp/index.php on line 136
+[15-Nov-2024 23:16:17 UTC] PHP Warning:  include(): Failed opening '../portal/_nav.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rwomoq266ddc/public_html/cp/index.php on line 136
